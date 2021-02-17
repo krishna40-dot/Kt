@@ -1,0 +1,46 @@
+
+F
+java:S1068"0Remove this unused "REQ_GET_USER" private field.( ¾ê
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(Ş¯à¡
+E
+java:S5411U"*Use the primitive boolean expression here.(ë‘„“ıÿÿÿÿ
+K
+java:S1144£"/Remove this unused private "hideDialog" method.(ÎĞØîÿÿÿÿÿ
+i
+java:S3008"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ÷ ¾ÿÿÿÿÿ
+K
+java:S1874?"6Remove this use of "ProgressDialog"; it is deprecated.(§ÜÆn
+p
+java:S1450*"URemove the "fbAuth" field and declare it as a local variable in the relevant methods.(àš€˜şÿÿÿÿ
+=
+java:S1659'"'Declare "btnSignup" on a separate line.(æ‹äŞ
+v
+java:S1450 "`Remove the "btnForgotPassword" field and declare it as a local variable in the relevant methods.(´Ñ³ğ
+B
+java:S1068"'Remove this unused "TAG" private field.(õ÷ ¾ÿÿÿÿÿ
+n
+java:S1450'"XRemove the "btnSignup" field and declare it as a local variable in the relevant methods.(æ‹äŞ
+„
+java:S3252"mUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_INDEFINITE".(¡Ñ²’
+7	java:S131Q""Add a default case to this switch.(Ôô“‚
+E
+java:S1144™".Remove this unused private "showToast" method.(…ºøÍ
+D
+java:S1185¸"(Remove this method to simply inherit it.(®¿²åúÿÿÿÿ
+Q
+java:S1874!"6Remove this use of "ProgressDialog"; it is deprecated.(®ÿô´ùÿÿÿÿ
+K
+java:S1144"/Remove this unused private "showDialog" method.(Ò»ß¸úÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(à˜éãûÿÿÿÿ
+D
+java:S1185³"(Remove this method to simply inherit it.(œƒƒ©ùÿÿÿÿ
+S
+java:S1128">Remove this unused import 'android.content.SharedPreferences'.(íÎÉr
+V	java:S125a"<This block of commented-out lines of code should be removed.(şšü”üÿÿÿÿ
+E
+java:S1068*"*Remove this unused "fbAuth" private field.(àš€˜şÿÿÿÿ
+A
+java:S1068&"+Remove this unused "toolbar" private field.(ş®º—
+n
+java:S1450'"XRemove the "btnSignin" field and declare it as a local variable in the relevant methods.(æ‹äŞ

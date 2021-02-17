@@ -1,0 +1,212 @@
+
+b
+java:S1301¸"KReplace this "switch" statement by "if" statements to increase readability.(¦ÌëÁ
+g
+java:S1301¶"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+b
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ºÓ©¦
+a
+java:S1192“"JDefine a constant instead of duplicating this literal "server_id" 3 times.(‰ªñ
+d
+java:S1192Ü"HDefine a constant instead of duplicating this literal "country" 3 times.(çòŠÌşÿÿÿÿ
+m
+java:S1192ï"QDefine a constant instead of duplicating this literal "application/json" 3 times.(‡ù³ ÿÿÿÿÿ
+d
+java:S1192•"MDefine a constant instead of duplicating this literal "card_network" 6 times.(»¹›
+g
+java:S1192ì"KDefine a constant instead of duplicating this literal "expires_at" 4 times.(Ñ¼‹ûÿÿÿÿ
+i
+java:S1192İ"MDefine a constant instead of duplicating this literal "country_code" 3 times.(İ›Ê’ûÿÿÿÿ
+h
+java:S1192–"QDefine a constant instead of duplicating this literal "card_first_digit" 3 times.(´¼¬š
+h
+java:S1192Ö"QDefine a constant instead of duplicating this literal "card_holder_name" 8 times.(‚»½‹
+l
+java:S1192Ú"PDefine a constant instead of duplicating this literal "cellular_phone1" 3 times.(”òÈåıÿÿÿÿ
+m
+java:S1192—"QDefine a constant instead of duplicating this literal "card_last_digits" 3 times.(Øÿ§Ÿÿÿÿÿÿ
+b
+java:S1192Ú"FDefine a constant instead of duplicating this literal "phone" 3 times.(”òÈåıÿÿÿÿ
+j
+java:S1192ñ"NDefine a constant instead of duplicating this literal "Authorization" 3 times.(§ˆøÁøÿÿÿÿ
+n
+java:S1192ñ"RDefine a constant instead of duplicating this literal "user_access_token" 3 times.(§ˆøÁøÿÿÿÿ
+q
+java:S1192¨"UDefine a constant instead of duplicating this literal "Some error occurred!" 3 times.(ñéÏîıÿÿÿÿ
+g
+java:S1192ë"PDefine a constant instead of duplicating this literal "billing_address" 8 times.(Š‹ÿŒ
+d
+java:S1192ğ"MDefine a constant instead of duplicating this literal "Content-Type" 3 times.(Şæ‘Ô
+`
+java:S1192á"JDefine a constant instead of duplicating this literal "longitude" 3 times.(Øøˆ[
+e
+java:S1192à"IDefine a constant instead of duplicating this literal "latitude" 3 times.(´¥ç¸ùÿÿÿÿ
+d
+java:S1192ñ"HDefine a constant instead of duplicating this literal "bearer " 3 times.(§ˆøÁøÿÿÿÿ
+o
+java:S1192–"XDefine a constant instead of duplicating this literal "card_number_first_digit" 3 times.(´¼¬š
+w
+java:S1192ğ"`Define a constant instead of duplicating this literal "application/json; charset=utf-8" 3 times.(Şæ‘Ô
+c
+java:S1192ï"GDefine a constant instead of duplicating this literal "Accept" 3 times.(‡ù³ ÿÿÿÿÿ
+h
+java:S1192Ş"LDefine a constant instead of duplicating this literal "postal_code" 3 times.(ÿà¬†úÿÿÿÿ
+K
+java:S1066ì"/Merge this if statement with the enclosing one.(™šÊøÿÿÿÿ
+K
+java:S1066Ê"/Merge this if statement with the enclosing one.(àÛêÇûÿÿÿÿ
+W	java:S110?"=This class has 10 parents which is greater than 5 authorized.(Ó‚™Æıÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¼äÑ
+l	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëñ§Æøÿÿÿÿ
+F
+java:S5411¿"*Use the primitive boolean expression here.(‡«ÏŞÿÿÿÿÿ
+D
+java:S1604ò"(Make this anonymous inner class a lambda(ÚÁ‰ëûÿÿÿÿ
+?
+java:S1604ü"(Make this anonymous inner class a lambda(òõÇÔ
+?
+java:S1604†"(Make this anonymous inner class a lambda(İêÀÅ
+?
+java:S1604ä"(Make this anonymous inner class a lambda(Õä
+Z
+java:S2583ş"CChange this condition so that it does not always evaluate to "true"(ËÄÒ‚
+Z
+java:S2583‡"CChange this condition so that it does not always evaluate to "true"(ËÄÒ‚
+Z
+java:S2583†"CChange this condition so that it does not always evaluate to "true"(ËÄÒ‚
+u
+java:S1488ş"^Immediately return this expression instead of assigning it to the temporary variable "result".(äÅé´
+u
+java:S1488ö"^Immediately return this expression instead of assigning it to the temporary variable "result".(º÷¨
+z
+java:S1488ÿ"^Immediately return this expression instead of assigning it to the temporary variable "result".(€•ã§şÿÿÿÿ
+s
+java:S1450B"XRemove the "actionBar" field and declare it as a local variable in the relevant methods.(ÒïÍ°ÿÿÿÿÿ
+q
+java:S1450X"VRemove the "address" field and declare it as a local variable in the relevant methods.(™Á½Ôşÿÿÿÿ
+t
+java:S1450R"YRemove the "btnBookNow" field and declare it as a local variable in the relevant methods.(¼›™ ÿÿÿÿÿ
+p
+java:S1450Y"URemove the "bundle" field and declare it as a local variable in the relevant methods.(ÃûÏáøÿÿÿÿ
+t
+java:S1450X"YRemove the "postalCode" field and declare it as a local variable in the relevant methods.(™Á½Ôşÿÿÿÿ
+o
+java:S1450X"TRemove the "state" field and declare it as a local variable in the relevant methods.(™Á½Ôşÿÿÿÿ
+l
+java:S1450A"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(ş®º—
+z
+java:S1450N"_Remove the "tvOriginalAmount" field and declare it as a local variable in the relevant methods.(ƒÛ²ùşÿÿÿÿ
+x
+java:S1450N"]Remove the "tvReturnAmount" field and declare it as a local variable in the relevant methods.(ƒÛ²ùşÿÿÿÿ
+w
+java:S1450N"\Remove the "tvTotalAmount" field and declare it as a local variable in the relevant methods.(ƒÛ²ùşÿÿÿÿ
+s
+java:S1450S"]Remove the "viewReturnTrip" field and declare it as a local variable in the relevant methods.(šÙö«
+C
+java:S1659L"-Declare "spinnerCardType" on a separate line.(ÅïÜ¹
+F
+java:S1659M"+Declare "txtCardNumber" on a separate line.(¯×Èüÿÿÿÿ
+B
+java:S1659M"'Declare "txtExpiry" on a separate line.(¯×Èüÿÿÿÿ
+?
+java:S1659M"$Declare "txtCvv" on a separate line.(¯×Èüÿÿÿÿ
+C
+java:S1659M"(Declare "txtAddress" on a separate line.(¯×Èüÿÿÿÿ
+F
+java:S1659M"+Declare "txtPostalCode" on a separate line.(¯×Èüÿÿÿÿ
+F
+java:S1659N"+Declare "tvCardNetwork" on a separate line.(ƒÛ²ùşÿÿÿÿ
+I
+java:S1659N".Declare "tvOriginalAmount" on a separate line.(ƒÛ²ùşÿÿÿÿ
+G
+java:S1659N",Declare "tvReturnAmount" on a separate line.(ƒÛ²ùşÿÿÿÿ
+F
+java:S1659N"+Declare "tvTotalAmount" on a separate line.(ƒÛ²ùşÿÿÿÿ
+F
+java:S1659P"+Declare "checkSaveCard" on a separate line.(êù¶„ıÿÿÿÿ
+B
+java:S1659S",Declare "viewReturnTrip" on a separate line.(šÙö«
+@
+java:S1659T"*Declare "creditCardId" on a separate line.(ÛÉ«ı
+B
+java:S1659T",Declare "paymentTypeIds" on a separate line.(ÛÉ«ı
+B
+java:S1659W"'Declare "longitude" on a separate line.(åÀ¤ıÿÿÿÿ
+=
+java:S1659X""Declare "city" on a separate line.(™Á½Ôşÿÿÿÿ
+>
+java:S1659X"#Declare "state" on a separate line.(™Á½Ôşÿÿÿÿ
+@
+java:S1659X"%Declare "country" on a separate line.(™Á½Ôşÿÿÿÿ
+D
+java:S1659X")Declare "countryCode" on a separate line.(™Á½Ôşÿÿÿÿ
+C
+java:S1659X"(Declare "postalCode" on a separate line.(™Á½Ôşÿÿÿÿ
+Q
+java:S1874E"6Remove this use of "ProgressDialog"; it is deprecated.(®ÿô´ùÿÿÿÿ
+N
+java:S1197T"8Move the array designator from the variable to the type.(ÛÉ«ı
+m
+java:S3776a"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(¨Œşÿÿÿÿ
+K
+java:S1874m"6Remove this use of "ProgressDialog"; it is deprecated.(§ÜÆn
+p
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(†¸Áî
+u
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠØ€üÿÿÿÿ
+N
+java:S1135Û"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+N
+java:S1135à"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+˜
+java:S1186­"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê³ôä
+8	java:S131¸""Add a default case to this switch.(¦ÌëÁ
+a
+java:S2147È"ECombine this catch with the one at line 326, which has the same body.(âÃƒŠıÿÿÿÿ
+i
+java:S3776Ñ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(úæƒœ
+p
+java:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öİ±
+`
+java:S1858„"I"result" is already a string, there's no need to call "toString()" on it.(Æ²ŞÃ
+a
+java:S2147£"ECombine this catch with the one at line 417, which has the same body.(âÃƒŠıÿÿÿÿ
+D	java:S108Š")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+L
+java:S1117"6Rename "db" which hides the field declared at line 68.(ş£“
+p
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öİ±
+e
+java:S1858ü"I"result" is already a string, there's no need to call "toString()" on it.(•¢Ü³ùÿÿÿÿ
+D	java:S108‚")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+i
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(şºÁô
+i
+java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‚ş§ˆ
+†
+java:S1130í"oRemove the declaration of thrown exception 'org.json.JSONException', as it cannot be thrown from method's body.(‚ş§ˆ
+p
+java:S2293ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öİ±
+`
+java:S1858…"I"result" is already a string, there's no need to call "toString()" on it.(’óš
+D	java:S108¡")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+=	java:S131¶""Add a default case to this switch.(×ö³–úÿÿÿÿ
+?
+java:S1185Ë"(Remove this method to simply inherit it.(Ù«µ§
+D
+java:S1172Ô"-Remove this unused method parameter "status".(¡Å­²
+8	java:S131""Add a default case to this switch.(ºÓ©¦
+E
+java:S1068M"*Remove this unused "txtCvv" private field.(¯×Èüÿÿÿÿ
+M
+java:S1068N"2Remove this unused "tvReturnAmount" private field.(ƒÛ²ùşÿÿÿÿ
+F
+java:S1068Q"0Remove this unused "selectedCard" private field.(Œ¤ç
+D
+java:S1068X")Remove this unused "state" private field.(™Á½Ôşÿÿÿÿ
+I
+java:S1068X".Remove this unused "postalCode" private field.(™Á½Ôşÿÿÿÿ
+Q	java:S125ı"<This block of commented-out lines of code should be removed.(õ«‰W
+W	java:S125†"<This block of commented-out lines of code should be removed.(ïïÓÿÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(åÙ‡øÿÿÿÿ
+R	java:S125à"<This block of commented-out lines of code should be removed.(«ƒø€

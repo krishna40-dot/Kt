@@ -1,0 +1,330 @@
+
+W	java:S125
+"<This block of commented-out lines of code should be removed.(Ù˜¨ÿıÿÿÿÿ
+n
+java:S3252í"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+T
+java:S1874ğ"8Remove this use of "FusedLocationApi"; it is deprecated.(œìÓüÿÿÿÿÿ
+D
+java:S1604ÿ"(Make this anonymous inner class a lambda(ÄÆ¶ìüÿÿÿÿ
+n
+java:S3252ç"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+f
+java:S3252¿"OUse static access with "android.content.DialogInterface" for "BUTTON_POSITIVE".(Óº‘ 
+J
+java:S1659£".Declare "btnChangeDropOff" on a separate line.(˜ÁÌüÿÿÿÿ
+D
+java:S1604Ô"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ
+O
+java:S1874ê"8Remove this use of "FusedLocationApi"; it is deprecated.(ª»„
+B
+java:S1659§"+Declare "tvPaymentType" on a separate line.(öíÇç
+n
+java:S3252	"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+i
+java:S3776ì	"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¬¸Á
+W	java:S110”"<This class has 9 parents which is greater than 5 authorized.(úöªÿÿÿÿÿ
+l	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ˆûÑüÿÿÿÿ
+D
+java:S1068¢"-Remove this unused "imgDriver" private field.(§ª¦
+R	java:S125İ	"<This block of commented-out lines of code should be removed.(Ç²µØ
+X
+java:S1144Ç	"ARemove this unused private "setupNavigationDrawerContent" method.(šôÇ·
+O
+java:S1874"8Remove this use of "FusedLocationApi"; it is deprecated.(îØªí
+A
+java:S1659§"*Declare "tvDriverName" on a separate line.(öíÇç
+o
+java:S1450¸"XRemove the "mDuration" field and declare it as a local variable in the relevant methods.(Ö¯Æ‚
+F
+java:S1066‚	"/Merge this if statement with the enclosing one.(„ÑŒ‰
+8	java:S131Í	""Add a default case to this switch.(¿›İ”
+m
+java:S1450š"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(ş®º—
+G
+java:S1874"0Remove this use of "getToken"; it is deprecated.(³Ù’º
+L
+java:S1874ò"6Remove this use of "ProgressDialog"; it is deprecated.(§ÜÆn
+W	java:S125…"<This block of commented-out lines of code should be removed.(…ê–ìşÿÿÿÿ
+—
+java:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹ö›n
+R	java:S125¿	"<This block of commented-out lines of code should be removed.(®ì­è
+W
+java:S1874•";Remove this use of "ConnectionCallbacks"; it is deprecated.(ÛâúÌşÿÿÿÿ
+G
+java:S1068À"1Remove this unused "mRegisterTask" private field.(¨ûæ:
+N
+java:S1874¬"7Remove this use of "GoogleApiClient"; it is deprecated.(Ÿõ¸Ú
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(ØÌìîüÿÿÿÿ
+Q	java:S125À"<This block of commented-out lines of code should be removed.(ìŠ­q
+[
+java:S1124˜"EReorder the modifiers to comply with the Java Language Specification.(Äş¼&
+˜
+java:S1186¸"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+N
+java:S1068±"7Remove this unused "SET_PICKUP_LOCATION" private field.(ÇÊÂÃ
+H
+java:S1068Ã",Remove this unused "closeApp" private field.(Ô±Ğ™øÿÿÿÿ
+z
+java:S1450Í"^Remove the "mLocationUpdate" field and declare it as a local variable in the relevant methods.(Î³Ã®ùÿÿÿÿ
+{
+java:S3008²"_Rename this field "SET_DROPOFF_LOCATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ïÍŒùÿÿÿÿ
+n
+java:S3252Ó"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(Ùİ
+
+java:S1186È"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”£“şÿÿÿÿ
+u
+java:S3008±"^Rename this field "SET_PICKUP_LOCATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÊÂÃ
+u
+java:S1450Ò"YRemove the "rideStatus" field and declare it as a local variable in the relevant methods.(ºêñ‰úÿÿÿÿ
+Z
+java:S1858Ë">"body" returns a string, there's no need to call "toString()".(¸æ”Şıÿÿÿÿ
+N
+java:S1659»"2Declare "blackPolylineOptions" on a separate line.(¦¢Ó¬øÿÿÿÿ
+E
+java:S1068§".Remove this unused "tvDistance" private field.(öíÇç
+o
+java:S1128‰"SRemove this unused import 'com.taxiappclone.common.app.Constants.RIDE_CANCEL_TIME'.(†Ì¹Ğÿÿÿÿÿ
+>
+java:S1659§"'Declare "tvDropOff" on a separate line.(öíÇç
+k
+java:S3252Û"OUse static access with "android.content.DialogInterface" for "BUTTON_POSITIVE".(§²¯Ğıÿÿÿÿ
+n
+java:S3008°"WRename this field "DISPLACEMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õıÉ
+B
+java:S1068Á"+Remove this unused "builder" private field.(ùšÜ¥
+H
+java:S1659Í",Declare "isDriverComing" on a separate line.(Î³Ã®ùÿÿÿÿ
+S
+java:S1874•"7Remove this use of "GoogleApiClient"; it is deprecated.(ÛâúÌşÿÿÿÿ
+n
+java:S3252Ó"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+O
+java:S1068Í"3Remove this unused "mLocationUpdate" private field.(Î³Ã®ùÿÿÿÿ
+f
+java:S3252×"OUse static access with "android.content.DialogInterface" for "BUTTON_POSITIVE".(Óº‘ 
+?
+java:S1604É	"(Make this anonymous inner class a lambda(Ëš›Ì
+{
+java:S1450£"_Remove the "btnChangeDropOff" field and declare it as a local variable in the relevant methods.(˜ÁÌüÿÿÿÿ
+?
+java:S1604’"(Make this anonymous inner class a lambda(ªñÛ¯
+y
+java:S1450œ"]Remove the "drawerFragment" field and declare it as a local variable in the relevant methods.(óú¿€ûÿÿÿÿ
+B
+java:S1659¤"+Declare "latLngDropOff" on a separate line.(•ÑÛ³
+R
+java:S1874ü"6Remove this use of "getErrorDialog"; it is deprecated.(£Û–Üıÿÿÿÿ
+˜
+java:S1186Ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿ£—
+S
+java:S1874–"7Remove this use of "GoogleApiClient"; it is deprecated.(Æ›­Ÿşÿÿÿÿ
+K
+java:S1068Â"/Remove this unused "alertDialog" private field.(Ó—½úÿÿÿÿ
+˜
+java:S1186Ã	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ë¿í
+X
+java:S1117Ü"<Rename "builder" which hides the field declared at line 193.(‰Êò¯úÿÿÿÿ
+W	java:S125±"<This block of commented-out lines of code should be removed.(ˆööòúÿÿÿÿ
+n
+java:S3252í"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+@
+java:S1659É"$Declare "rideId" on a separate line.(Ó›ıèşÿÿÿÿ
+T
+java:S1068²"8Remove this unused "SET_DROPOFF_LOCATION" private field.(§ïÍŒùÿÿÿÿ
+n
+java:S3252	"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+=	java:S131ï	""Add a default case to this switch.(×ö³–úÿÿÿÿ
+A
+java:S5411–"*Use the primitive boolean expression here.(§ò®é
+n
+java:S3252‹"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+O
+java:S1874Ö"8Remove this use of "FusedLocationApi"; it is deprecated.(îØªí
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(ôÎõåúÿÿÿÿ
+D
+java:S1604“	"(Make this anonymous inner class a lambda(¿×ò´ıÿÿÿÿ
+f
+java:S3252Ó"OUse static access with "android.content.DialogInterface" for "BUTTON_POSITIVE".(Óº‘ 
+n
+java:S3252¬	"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+n
+java:S3252¬	"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+n
+java:S1450§"WRemove the "tvAmount" field and declare it as a local variable in the relevant methods.(öíÇç
+=	java:S131â""Add a default case to this switch.(³“ºûÿÿÿÿ
+]
+java:S1854õ"ARemove this useless assignment to local variable "startRotation".(©­³œıÿÿÿÿ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(±£ğ°
+>
+java:S1659§"'Declare "tvCarType" on a separate line.(öíÇç
+D
+java:S1185"(Remove this method to simply inherit it.(ÿ™¢§ûÿÿÿÿ
+v
+java:S3008®"ZRename this field "UPDATE_INTERVAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘€ö¼ÿÿÿÿÿ
+u
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÂ¢¸úÿÿÿÿ
+B
+java:S1659É"&Declare "driverId" on a separate line.(Ó›ıèşÿÿÿÿ
+R	java:S125á	"<This block of commented-out lines of code should be removed.(±¸ºÑ
+D
+java:S1604†"(Make this anonymous inner class a lambda(ç’Êøûÿÿÿÿ
+I
+java:S1068§"2Remove this unused "tvDriverRating" private field.(öíÇç
+=
+java:S1659§"&Declare "tvAmount" on a separate line.(öíÇç
+C
+java:S1068§",Remove this unused "tvAmount" private field.(öíÇç
+i
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(‚ñõ
+W	java:S125å"<This block of commented-out lines of code should be removed.(½ şñüÿÿÿÿ
+D
+java:S1068¸"-Remove this unused "mDuration" private field.(Ö¯Æ‚
+W	java:S125
+"<This block of commented-out lines of code should be removed.(ùÓ—‹øÿÿÿÿ
+S
+java:S1117¡"<Rename "builder" which hides the field declared at line 193.(ºĞà†
+C
+java:S1659§",Declare "tvDriverRating" on a separate line.(öíÇç
+=	java:S131’""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+n
+java:S3252Š"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+;
+java:S1659Ô"$Declare "result" on a separate line.(òòÌß
+g
+java:S1301ï	"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+U
+java:S1874û">Remove this use of "isUserRecoverableError"; it is deprecated.(Š¤ù
+A
+java:S1068Æ"*Remove this unused "radius" private field.(Ô›ÂŒ
+X
+java:S1854Å"ARemove this useless assignment to local variable "duration_text".(³õÈÿ
+u
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯Œ¯°ûÿÿÿÿ
+Y
+java:S1126¾"BReplace this if-then-else statement by a single method invocation.(ŠÆ½“
+g	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³õÈÿ
+?
+java:S1604İ"(Make this anonymous inner class a lambda(”š†¾
+E
+java:S1659É")Declare "driverToken" on a separate line.(Ó›ıèşÿÿÿÿ
+F
+java:S5411"*Use the primitive boolean expression here.(î•ãÀıÿÿÿÿ
+˜
+java:S1186ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Ş‰
+n
+java:S3252	"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¡é††
+z
+java:S1450£"^Remove the "btnChangePickup" field and declare it as a local variable in the relevant methods.(˜ÁÌüÿÿÿÿ
+J
+java:S1068¦".Remove this unused "viewCancel" private field.(ÊİîÆùÿÿÿÿ
+o
+java:S1450·"XRemove the "mDistance" field and declare it as a local variable in the relevant methods.(ï°¢¹
+n
+java:S3252	"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+=
+java:S1659Ñ"!Declare "lng" on a separate line.(²Û¥úÿÿÿÿ
+Z
+java:S2583Æ"CChange this condition so that it does not always evaluate to "true"(¿¢ùÏ
+R	java:S125è"<This block of commented-out lines of code should be removed.(ê÷“¦
+A
+java:S1659¼"*Declare "greyPolyline" on a separate line.(”™Ø¼
+˜
+java:S1186Ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Ş‰
+R	java:S125«	"<This block of commented-out lines of code should be removed.(ó–—ö
+N
+java:S1481õ"2Remove this unused "startRotation" local variable.(©­³œıÿÿÿÿ
+R	java:S125Ë
+"<This block of commented-out lines of code should be removed.(ƒòŸç
+B
+java:S1481Ì	"&Remove this unused "i" local variable.(ığÇ­ıÿÿÿÿ
+F
+java:S1874õ"/Remove this use of "Builder"; it is deprecated.(î¾ÄÁ
+R
+java:S1874¿"6Remove this use of "ProgressDialog"; it is deprecated.(®ÿô´ùÿÿÿÿ
+n
+java:S3252‹"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+n
+java:S3252ç"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+D
+java:S1659¹"-Declare "mDropOffAddress" on a separate line.(£‚
+R	java:S125ø"<This block of commented-out lines of code should be removed.(ÃÁ°ñ
+s
+java:S1450§"\Remove the "tvPaymentType" field and declare it as a local variable in the relevant methods.(öíÇç
+˜
+java:S1186Å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê
+D
+java:S1068·"-Remove this unused "mDistance" private field.(ï°¢¹
+t
+java:S1450§"]Remove the "tvDriverRating" field and declare it as a local variable in the relevant methods.(öíÇç
+?
+java:S1659§"(Declare "tvDistance" on a separate line.(öíÇç
+?
+java:S1604¢"(Make this anonymous inner class a lambda(ğøÄ
+t
+java:S1450Ñ"XRemove the "btnCancel" field and declare it as a local variable in the relevant methods.(İ‡§İúÿÿÿÿ
+I
+java:S1481Å"2Remove this unused "duration_text" local variable.(³õÈÿ
+=	java:S131ÿ""Add a default case to this switch.(×ö³–úÿÿÿÿ
+a
+java:S1874ø"ERemove this use of "isGooglePlayServicesAvailable"; it is deprecated.(¯ÜÈÓûÿÿÿÿ
+2
+java:S3626É
+"Remove this redundant jump.(ûÁİ…
+=	java:S131ã""Add a default case to this switch.(ÊÃ‚±üÿÿÿÿ
+
+java:S1186Í"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ×Ó¡üÿÿÿÿ
+:
+java:S1659Ô"#Declare "shift" on a separate line.(òòÌß
+D	java:S108’
+")Either remove or fill this block of code.(î•ãÀıÿÿÿÿ
+R	java:S125Ó	"<This block of commented-out lines of code should be removed.(±¸ºÑ
+U
+java:S1858Ê">"body" returns a string, there's no need to call "toString()".(äÙşÌ
+H
+java:S1068§"1Remove this unused "tvPaymentType" private field.(öíÇç
+k
+java:S3252Á"OUse static access with "android.content.DialogInterface" for "BUTTON_POSITIVE".(§²¯Ğıÿÿÿÿ
+n
+java:S3252Š"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+J
+java:S1068Ò".Remove this unused "rideStatus" private field.(ºêñ‰úÿÿÿÿ
+o
+java:S1450§"XRemove the "tvCarType" field and declare it as a local variable in the relevant methods.(öíÇç
+8
+java:S1659Ğ"!Declare "len" on a separate line.(ğŞ…¡
+D
+java:S1604û"(Make this anonymous inner class a lambda(ç¨†øÿÿÿÿ
+L
+java:S1659¥"0Declare "mDestinationMarker" on a separate line.(ïÅ±úÿÿÿÿ
+N
+java:S1874õ"7Remove this use of "GoogleApiClient"; it is deprecated.(î¾ÄÁ
+q
+java:S1450µ"ZRemove the "mapFragment" field and declare it as a local variable in the relevant methods.(Åıùô
+P
+java:S1117È"9Rename "ride" which hides the field declared at line 207.(¸çÓ
+F
+java:S5411ô"*Use the primitive boolean expression here.(Â‚õºüÿÿÿÿ
+D
+java:S1659Ò"(Declare "rideStatus" on a separate line.(ºêñ‰úÿÿÿÿ
+D
+java:S1068§"-Remove this unused "tvCarType" private field.(öíÇç
+W	java:S125’"<This block of commented-out lines of code should be removed.(†›¤©øÿÿÿÿ
+
+java:S1186à"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ
+A
+java:S5411Ò"*Use the primitive boolean expression here.(ùŸ§¶
+^
+java:S1874–"BRemove this use of "OnConnectionFailedListener"; it is deprecated.(Æ›­Ÿşÿÿÿÿ
+=	java:S131½""Add a default case to this switch.(ÊÃ‚±üÿÿÿÿ
+˜
+java:S1186ß"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­à»ç
+g
+java:S1301ÿ"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(ãİç¯ûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(…Í§úÿÿÿÿ
+q
+java:S3008¯"[Rename this field "FASTEST_INTERVAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Şå

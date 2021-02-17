@@ -1,0 +1,5 @@
+rootProject.name='TaxiAppClone'
+include ':driver'
+include ':rider'
+include ':common'
+include ':cropper'

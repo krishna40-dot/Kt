@@ -1,0 +1,38 @@
+
+f	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éı§Ü
+c	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç˜Âˆ
+c	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÄÒÕ
+c	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¾›
+l	java:S116"WRename this field "vehicle_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖËÎå
+n	java:S116"YRename this field "vehicle_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û²¯
+j	java:S116"URename this field "created_at" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù“ƒÍ
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç˜Âˆ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ «ûÿÿÿÿ
+h	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‡‚şÿÿÿÿ
+b	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÈÒ	
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—îğ¼ıÿÿÿÿ
+p	java:S116"VRename this field "modified_at" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ˆº©øÿÿÿÿ
+c	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÀˆÓ
+h	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ·ü·úÿÿÿÿ
+c	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÈÍÁ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¶åÿûÿÿÿÿ
+q	java:S116"\Rename this field "registration_card" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úïÅ„
+n	java:S116"TRename this field "driver_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’è¢«øÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ «ûÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡âÕ
+c	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çºæ¾
+c	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éı§Ü
+h	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ä¾×üÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡âÕ
+f	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÄÒÕ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œã¸
+k	java:S116	"VRename this field "expiry_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œã£®
+h	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—îğ¼ıÿÿÿÿ
+m	java:S116"XRename this field "vehicle_model" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Œ¥ø
+b	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³•ŒG
+t	java:S116
+"ZRename this field "driving_license" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì×Œ¸ùÿÿÿÿ
+h	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¶åÿûÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ª˜Äûÿÿÿÿ
+e	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÈÒ	
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¾›

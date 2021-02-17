@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_recharge_history"
+            android:icon="@drawable/ic_action_customize"
+            android:title="Recharge History" />
+        <item
+            android:id="@+id/nav_recharge_offers"
+            android:icon="@drawable/ic_action_customize"
+            android:title="My Offers" />
+        <item
+            android:id="@+id/nav_bindas"
+            android:icon="@drawable/ic_action_account"
+            android:title="My Bindas" />
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/ic_action_account"
+            android:title="Log Out" />
+
+    </group>-->
+    <!--<item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_action_home"
+        android:title="Home" />-->
+    <item
+        android:id="@+id/nav_rides"
+        android:icon="@drawable/ic_local_taxi_black_24dp"
+        android:title="My Rides" />
+    <item
+        android:id="@+id/nav_payments"
+        android:icon="@drawable/ic_payment_black_24dp"
+        android:title="Payment Methods" />
+    <!--<item
+        android:id="@+id/nav_invoices"
+        android:icon="@drawable/ic_action_receipt"
+        android:title="Invoices" />-->
+    <item
+        android:id="@+id/nav_locations"
+        android:icon="@drawable/ic_place_black_24dp"
+        android:title="My Addresses" />
+    <!--<item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/ic_action_setting"
+        android:title="Setting" />-->
+    <item
+        android:id="@+id/nav_help"
+        android:icon="@drawable/ic_help_outline_black_24dp"
+        android:title="Help" />
+    <item
+        android:id="@+id/nav_log_out"
+        android:icon="@drawable/ic_log_out_black_24dp"
+        android:title="Log Out" />
+
+
+    <!--<item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>-->
+
+</menu>

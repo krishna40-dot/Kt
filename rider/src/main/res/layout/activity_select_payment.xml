@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorActivityBackground">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <include android:id="@+id/toolbar" layout="@layout/toolbar"/>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="3.0dip"
+                app:cardElevation="5.0dip"
+                app:cardBackgroundColor="@color/white"
+                android:layout_margin="15dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:indeterminate="true"
+                >
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    >
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Ride Amount"
+                        android:textColor="@color/color_gray_dark"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                        android:paddingTop="10dp"
+                        android:paddingBottom="10dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"/>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/colorDivider"
+                        />
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:paddingTop="15dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Original trip amount"
+                            android:layout_centerVertical="true"
+                            android:textColor="@color/text_color_normal"/>
+                        <TextView
+                            android:id="@+id/tv_original_amount"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="₹29.59"
+                            android:layout_alignParentRight="true"
+                            android:textSize="18sp"
+                            android:textColor="@color/text_color_dark"
+                            android:textStyle="bold"
+                            android:layout_centerVertical="true"/>
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:id="@+id/view_return_trip"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:paddingTop="15dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Return trip amount"
+                            android:layout_centerVertical="true"
+                            android:textColor="@color/text_color_normal"/>
+
+                        <TextView
+                            android:id="@+id/tv_return_trip_amount"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_marginBottom="15dp"
+                            android:text="₹29.59"
+                            android:textColor="@color/text_color_dark"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+                    </RelativeLayout>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/colorDivider"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginLeft="15dp"/>
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:paddingTop="15dp"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Total amount"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/text_color_normal"
+                            android:layout_centerVertical="true"/>
+                        <TextView
+                            android:id="@+id/tv_total_amount"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="₹29.59"
+                            android:layout_alignParentRight="true"
+                            android:textSize="22sp"
+                            android:textColor="@color/text_color_dark"
+                            android:textStyle="bold"
+                            android:layout_centerVertical="true"/>
+                    </RelativeLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="15dp"
+                android:background="@color/white">
+
+                <fr.ganfra.materialspinner.MaterialSpinner
+                    android:id="@+id/spinner_payment_type"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:ms_arrowColor="@color/color_gray_normal"
+                    app:ms_arrowSize="16dp"
+                    android:paddingLeft="0dp"
+                    app:ms_floatingLabelColor="@color/colorPrimaryDark"
+                    app:ms_floatingLabelText="Payment Method"
+                    app:ms_hint="Select Payment Method"
+                    app:ms_baseColor="@color/color_gray_normal"
+                    app:ms_multiline="false"/>
+                <fr.ganfra.materialspinner.MaterialSpinner
+                    android:id="@+id/spinner_card_type"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:ms_arrowColor="@color/color_gray_normal"
+                    app:ms_arrowSize="16dp"
+                    android:paddingLeft="0dp"
+                    app:ms_floatingLabelColor="@color/colorPrimaryDark"
+                    app:ms_floatingLabelText="Saved Cards"
+                    app:ms_hint="Select Credit Card"
+                    app:ms_baseColor="@color/color_gray_normal"
+                    app:ms_multiline="false"/>
+
+                <LinearLayout
+                    android:id="@+id/view_new_credit_card"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    >
+                    <com.rengwuxian.materialedittext.MaterialEditText
+                        android:id="@+id/txt_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Name on card"
+                        app:met_floatingLabelText="Name"
+                        android:textSize="20sp"
+                        app:met_baseColor="@color/color_gray_normal"
+                        app:met_floatingLabel="highlight"
+                        app:met_primaryColor="?colorAccent"
+                        app:met_singleLineEllipsis="true"
+                        android:layout_marginTop="10dp"
+                        android:layout_below="@id/spinner_address_type"
+                        />
+                    <com.rengwuxian.materialedittext.MaterialEditText
+                        android:id="@+id/txt_card_number"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Card number"
+                        android:textSize="20sp"
+                        android:inputType="number"
+                        app:met_baseColor="@color/color_gray_normal"
+                        app:met_floatingLabel="highlight"
+                        app:met_primaryColor="?colorAccent"
+                        app:met_singleLineEllipsis="true"
+                        android:layout_marginTop="10dp"
+                        android:layout_below="@id/txt_name"
+                        />
+                    <com.rengwuxian.materialedittext.MaterialEditText
+                        android:id="@+id/txt_expiry"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Exp Date"
+                        android:textSize="20sp"
+                        android:inputType="number"
+                        android:maxLength="5"
+                        app:met_baseColor="@color/color_gray_normal"
+                        app:met_floatingLabel="highlight"
+                        app:met_primaryColor="?colorAccent"
+                        app:met_singleLineEllipsis="true"
+                        android:layout_marginTop="10dp"
+                        android:layout_toLeftOf="@+id/view1"
+                        />
+                    <com.rengwuxian.materialedittext.MaterialEditText
+                        android:id="@+id/txt_address"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Billing address"
+                        android:textSize="20sp"
+                        app:met_baseColor="@color/color_gray_normal"
+                        app:met_floatingLabel="highlight"
+                        app:met_primaryColor="?colorAccent"
+                        app:met_singleLineEllipsis="true"
+                        android:layout_marginTop="10dp"
+                        />
+                    <com.rengwuxian.materialedittext.MaterialEditText
+                        android:id="@+id/txt_postal_code"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Postal code"
+                        android:textSize="20sp"
+                        android:inputType="number"
+                        app:met_baseColor="@color/color_gray_normal"
+                        app:met_floatingLabel="highlight"
+                        app:met_primaryColor="?colorAccent"
+                        app:met_singleLineEllipsis="true"
+                        />
+                    <CheckBox
+                        android:id="@+id/check_save_card"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Save Card"
+                        android:textSize="18sp"/>
+                </LinearLayout>
+            </LinearLayout>
+            <androidx.cardview.widget.CardView
+                android:id="@+id/view_selected_credit_card"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="?android:selectableItemBackground"
+                app:cardElevation="2dp"
+                app:cardCornerRadius="5dp"
+                android:focusable="true"
+                android:clickable="true"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp">
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="15dp"
+                    android:visibility="visible">
+
+                    <ImageView
+                        android:id="@+id/img_taxi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center_vertical"
+                        app:srcCompat="@drawable/ic_payment_black_24dp"
+                        android:tint="@color/color_gray_dark"
+                        android:layout_marginRight="15dp"/>
+
+                    <TextView
+                        android:id="@+id/tv_card_number"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_toEndOf="@+id/img_taxi"
+                        android:singleLine="true"
+                        android:text="XXXXXXXXXXXX4236"
+                        android:textColor="@color/text_color_dark"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/tv_card_network"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toEndOf="@+id/img_taxi"
+                        android:layout_below="@+id/tv_card_number"
+                        android:singleLine="true"
+                        android:text="Master Card"
+                        android:textColor="#999999"
+                        android:textSize="14sp" />
+
+                    <CheckBox
+                        android:id="@+id/check_selected_card"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:buttonTint="@color/colorGreen"
+                        />
+                </RelativeLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/list_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:overScrollMode="never"
+                android:layout_marginTop="15dp"
+                android:background="@color/white"
+                android:fadingEdge="none"
+                android:scrollbars="none"/>
+            <Button
+                android:id="@+id/btn_book_now"
+                style="@style/ButtonPrimary"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="  Book Now  "
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="15dp"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

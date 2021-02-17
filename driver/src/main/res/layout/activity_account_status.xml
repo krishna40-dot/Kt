@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.AccountStatusActivity"
+    android:orientation="vertical"
+    android:background="@color/white">
+    <include android:id="@+id/toolbar" layout="@layout/toolbar"/>
+    <ImageView
+        android:id="@+id/imgStatus"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_info_black_24dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"/>
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="@string/under_review"
+        android:textSize="22sp"
+        android:textAppearance="@style/TextAppearance.BoldFont"
+        android:padding="15dp"/>
+    <TextView
+        android:id="@+id/tvMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="@string/msg_profile_under_review"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@color/color_gray_dark"
+        android:padding="15dp"/>
+
+    <Button
+        android:id="@+id/btnResubmit"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        style="@style/ButtonPrimary"
+        android:text="@string/resubmit"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="25dp"
+        android:visibility="gone"/>
+    <Button
+        android:id="@+id/btnExit"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        style="@style/ButtonPrimary"
+        android:text="@string/exit"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="25dp"/>
+</LinearLayout>

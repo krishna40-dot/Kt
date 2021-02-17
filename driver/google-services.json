@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942586762789",
+    "firebase_url": "https://mbs-cab.firebaseio.com",
+    "project_id": "mbs-cab",
+    "storage_bucket": "mbs-cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942586762789:android:e04935a21fd45bb63551cc",
+        "android_client_info": {
+          "package_name": "com.taxiappclone.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942586762789-2lke15f9qncd2kt9t7fg6birp1d8mufj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ8Z3ChPwUh3T9AQmudnGPtDYBuR3j8sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942586762789-2lke15f9qncd2kt9t7fg6birp1d8mufj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

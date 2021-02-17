@@ -1,0 +1,40 @@
+
+F
+java:S1874J"0Remove this use of "getColor"; it is deprecated.(Š´Ó‹
+c
+java:S2147ª"ECombine this catch with the one at line 168, which has the same body.(ßÈ´8§è¯Á.
+^	java:S125å"<This block of commented-out lines of code should be removed.(åó€üûÿÿÿÿ8§è¯Á.
+\
+java:S1874A"?Remove this use of "isConnectedOrConnecting"; it is deprecated.(ÿàÕ‡8§è¯Á.
+‡
+java:S1488Ø"dImmediately return this expression instead of assigning it to the temporary variable "encodedImage".(¸¬Ğóÿÿÿÿÿ8§è¯Á.
+ƒ
+java:S1488ã"`Immediately return this expression instead of assigning it to the temporary variable "myBitmap".(ˆÜ¬¦ûÿÿÿÿ8§è¯Á.
+|
+java:S3252º"^Use static access with "android.provider.ContactsContract$ContactsColumns" for "DISPLAY_NAME".(ë‰İ‚8§è¯Á.
+K
+java:S1172•"-Remove this unused method parameter "status".(çâÕÆ8§è¯Á.
+G
+java:S30109"%Remove this assignment of "mContext".(åúı´ıÿÿÿÿ8§è¯Á.
+M
+java:S1874Ø"0Remove this use of "getState"; it is deprecated.(©½€8§è¯Á.
+^	java:S125í"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8§è¯Á.
+U
+java:S1874H"3Remove this use of "getDrawable"; it is deprecated.(½Õ¨ôüÿÿÿÿ8§è¯Á.
+^	java:S125¦"<This block of commented-out lines of code should be removed.(Œ¢ïşÿÿÿÿ8§è¯Á.
+Y	java:S125 "<This block of commented-out lines of code should be removed.(«ƒø€8§è¯Á.
+q
+java:S1192x"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 3 times.(À¨Ï8§è¯Á.
+W
+java:S1874Õ"9Remove this use of "getAllNetworkInfo"; it is deprecated.(“Å°¿8§è¯Á.
+|
+java:S3252¾"^Use static access with "android.provider.ContactsContract$ContactsColumns" for "DISPLAY_NAME".(ŠÖÄ8§è¯Á.
+^	java:S125«"<This block of commented-out lines of code should be removed.(Óõ½¾şÿÿÿÿ8§è¯Á.
+j
+java:S3252É"LUse static access with "android.content.Context" for "INPUT_METHOD_SERVICE".(êÑ×ã8§è¯Á.
+Y	java:S125"<This block of commented-out lines of code should be removed.(¼ä—¾8§è¯Á.
+M
+java:S1874K"0Remove this use of "getColor"; it is deprecated.(˜£Ëî8§è¯Á.
+Y	java:S125ö"<This block of commented-out lines of code should be removed.(¸€ßŞ8§è¯Á.
+:
+java:S1643Æ"Use a StringBuilder instead.(¶³…ä8§è¯Á.

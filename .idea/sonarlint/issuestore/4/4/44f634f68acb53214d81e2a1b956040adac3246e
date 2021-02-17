@@ -1,0 +1,74 @@
+
+o
+java:S1450g"TRemove the "mHour" field and declare it as a local variable in the relevant methods.(ºÜâÔşÿÿÿÿ
+@
+java:S1068i"*Remove this unused "bitmap" private field.(¢üÀ–
+u
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ØóŞıÿÿÿÿ
+?
+java:S1659g"$Declare "mMonth" on a separate line.(ºÜâÔşÿÿÿÿ
+>
+java:S1604y"(Make this anonymous inner class a lambda(³ Ïù
+R	java:S125¼"<This block of commented-out lines of code should be removed.(´´òÍ
+q
+java:S1450g"VRemove the "mMinute" field and declare it as a local variable in the relevant methods.(ºÜâÔşÿÿÿÿ
+C
+java:S1659h"-Declare "userChoosenTask" on a separate line.(¨ìâÅ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼“¨øÿÿÿÿ
+u
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼“¨øÿÿÿÿ
+b
+java:S1192s"GDefine a constant instead of duplicating this literal "mobile" 5 times.(ğùÄ…ÿÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(ÌÜİ‚
+?	java:S108¥")Either remove or fill this block of code.(å¥‡
+W
+java:S1117‘";Rename "bitmap" which hides the field declared at line 105.(éÄ˜¦şÿÿÿÿ
+?
+java:S1659W"$Declare "gender" on a separate line.(Şğ’»şÿÿÿÿ
+>
+java:S1659W"#Declare "email" on a separate line.(Şğ’»şÿÿÿÿ
+?	java:S108İ")Either remove or fill this block of code.(å¥‡
+K
+java:S1066"/Merge this if statement with the enclosing one.(š”§“şÿÿÿÿ
+D
+java:S1604ß"(Make this anonymous inner class a lambda(Ïë£ùÿÿÿÿ
+u
+java:S1488º"^Immediately return this expression instead of assigning it to the temporary variable "result".(¥±ä¢
+G
+java:S1874×"0Remove this use of "getToken"; it is deprecated.(³Ù’º
+D
+java:S1604æ"(Make this anonymous inner class a lambda(Ÿ ¹ÿÿÿÿÿ
+=
+java:S1659g""Declare "mDay" on a separate line.(ºÜâÔşÿÿÿÿ
+Q
+java:S1874e"6Remove this use of "ProgressDialog"; it is deprecated.(®ÿô´ùÿÿÿÿ
+F
+java:S1068g"+Remove this unused "mMinute" private field.(ºÜâÔşÿÿÿÿ
+K
+java:S1874t"6Remove this use of "ProgressDialog"; it is deprecated.(§ÜÆn
+>
+java:S1659g"#Declare "mHour" on a separate line.(ºÜâÔşÿÿÿÿ
+V	java:S110J"<This class has 9 parents which is greater than 5 authorized.(ÚÍ­ûÿÿÿÿ
+z
+java:S1488Š"^Immediately return this expression instead of assigning it to the temporary variable "result".(¼ÿıÿÿÿÿ
+<
+java:S1659W"!Declare "dob" on a separate line.(Şğ’»şÿÿÿÿ
+b
+java:S1192ÿ"FDefine a constant instead of duplicating this literal "image" 5 times.(â¥âÿÿÿÿÿ
+F
+java:S1066"/Merge this if statement with the enclosing one.(áçÿ
+D
+java:S1068g")Remove this unused "mHour" private field.(ºÜâÔşÿÿÿÿ
+@
+java:S1659h"*Declare "profileImage" on a separate line.(¨ìâÅ
+I
+java:S1068h"3Remove this unused "userChoosenTask" private field.(¨ìâÅ
+u
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ØóŞıÿÿÿÿ
+@
+java:S1659g"%Declare "mMinute" on a separate line.(ºÜâÔşÿÿÿÿ
+?
+java:S1659W"$Declare "mobile" on a separate line.(Şğ’»şÿÿÿÿ
+8	java:S131ñ""Add a default case to this switch.(ºÖ

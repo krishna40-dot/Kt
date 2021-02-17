@@ -1,0 +1,9 @@
+
+q
+java:S1104"[Make CURRENCY_SYMBOL a static final constant or non-public and provide accessors if needed.(õıÉ¼
+U
+java:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿ
+K
+java:S1444"5Make this "public static CURRENCY_SYMBOL" field final(õıÉ¼
+p
+java:S3008"ZRename this field "CURRENCY_SYMBOL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õıÉ¼

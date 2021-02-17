@@ -1,0 +1,15 @@
+
+P
+java:S1444"5Make this "public static URL_UPLOAD_PATH" field final(ú¥Ã‹ùÿÿÿÿ
+C
+java:S1444	"-Make this "public static URL_API" field final(¥ûü
+v
+java:S1104"[Make URL_UPLOAD_PATH a static final constant or non-public and provide accessors if needed.(ú¥Ã‹ùÿÿÿÿ
+i
+java:S1104	"SMake URL_API a static final constant or non-public and provide accessors if needed.(¥ûü
+u
+java:S3008"ZRename this field "URL_UPLOAD_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¥Ã‹ùÿÿÿÿ
+h
+java:S3008	"RRename this field "URL_API" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ûü
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ï¡øá

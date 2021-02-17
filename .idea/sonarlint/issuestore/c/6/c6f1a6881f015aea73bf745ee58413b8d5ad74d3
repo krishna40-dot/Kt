@@ -1,0 +1,29 @@
+
+V	java:S125@"<This block of commented-out lines of code should be removed.(Ç´†ƒüÿÿÿÿ
+Q
+java:S1874 "6Remove this use of "ProgressDialog"; it is deprecated.(ÿ¢ÿÿÿÿÿ
+H
+java:S1199~"-Extract this nested code block into a method.(ù°û“ıÿÿÿÿ
+g
+java:S1301‘"KReplace this "switch" statement by "if" statements to increase readability.(Ò“ÿšùÿÿÿÿ
+l
+java:S1450#"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(ş®º—
+g	java:S116%"RRename this field "m_downX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¾ş
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(ÆÖ¿¯üÿÿÿÿ
+E
+java:S1068 "*Remove this unused "dialog" private field.(ÿ¢ÿÿÿÿÿ
+>
+java:S1604n"(Make this anonymous inner class a lambda(¬¡Üû
+e
+java:S1874W"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(µÛÎ°üÿÿÿÿ
+<	java:S131v""Add a default case to this switch.(ãÁğ™øÿÿÿÿ
+=	java:S131‘""Add a default case to this switch.(Ò“ÿšùÿÿÿÿ
+H
+java:S1199w"-Extract this nested code block into a method.(µ˜ÇÃøÿÿÿÿ
+R
+java:S1874"7Remove this use of "FragmentManager"; it is deprecated.(§úÊ„ùÿÿÿÿ
+s
+java:S1450$"XRemove the "actionBar" field and declare it as a local variable in the relevant methods.(ÒïÍ°ÿÿÿÿÿ
+H
+java:S1068"3Remove this unused "mIntentReceiver" private field.(ª„
+V	java:S125M"<This block of commented-out lines of code should be removed.(»ûÀéøÿÿÿÿ

@@ -1,0 +1,124 @@
+
+D
+java:S1604ñ"(Make this anonymous inner class a lambda(Ÿ ¹ÿÿÿÿÿ
+D
+java:S1604ë"(Make this anonymous inner class a lambda(Ïë£ùÿÿÿÿ
+L
+java:S1874ä"0Remove this use of "getColor"; it is deprecated.(Š²Ç¤şÿÿÿÿ
+e
+java:S1192×"NDefine a constant instead of duplicating this literal "drivers_docs/" 3 times.(×ã”‘
+8
+java:S1659›"!Declare "dob" on a separate line.(²…Ò×
+A
+java:S1659œ"*Declare "profileImage" on a separate line.(ãØşá
+^
+java:S1192Œ"GDefine a constant instead of duplicating this literal "status" 4 times.(øê½ 
+R
+java:S1874˜"6Remove this use of "ProgressDialog"; it is deprecated.(®ÿô´ùÿÿÿÿ
+i
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(ËÅÛº
+G
+java:S1874ã"0Remove this use of "getColor"; it is deprecated.(œšœ—
+F
+java:S3740"/Provide the parametrized type for this generic.(Æ¹¡
+?	java:S108€")Either remove or fill this block of code.(å¥‡
+@
+java:S1068›")Remove this unused "email" private field.(²…Ò×
+R
+java:S1117à";Rename "driver" which hides the field declared at line 159.(µé€è
+L
+java:S1874ô"0Remove this use of "getColor"; it is deprecated.(İÔû«ÿÿÿÿÿ
+>
+java:S1659š""Declare "mDay" on a separate line.(İ¤Ï½øÿÿÿÿ
+u
+java:S1488Ô"^Immediately return this expression instead of assigning it to the temporary variable "result".(¥±ä¢
+H
+java:S1659œ"1Declare "drivingLicenseImage" on a separate line.(ãØşá
+u
+java:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ØóŞıÿÿÿÿ
+c
+java:S1192ã"GDefine a constant instead of duplicating this literal "mobile" 5 times.(ğùÄ…ÿÿÿÿÿ
+k
+java:S1450›"TRemove the "email" field and declare it as a local variable in the relevant methods.(²…Ò×
+L
+java:S1874â"0Remove this use of "getColor"; it is deprecated.(×–İ•øÿÿÿÿ
+j
+java:S1128W"ORemove this unused import 'com.taxiappclone.common.app.AppConfig.TABLE_RIDERS'.(Ãş¨ıÿÿÿÿ
+?
+java:S1659š"#Declare "mHour" on a separate line.(İ¤Ï½øÿÿÿÿ
+?	java:S108¿")Either remove or fill this block of code.(å¥‡
+=	java:S131×""Add a default case to this switch.(×ö³–úÿÿÿÿ
+i
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(İÍêÅ
+R	java:S125¢"<This block of commented-out lines of code should be removed.(´´òÍ
+:
+java:S1659›"#Declare "email" on a separate line.(²…Ò×
+W	java:S110b"=This class has 10 parents which is greater than 5 authorized.(ñ±øÿÿÿÿ
+8	java:S131”""Add a default case to this switch.(ºÖ
+?	java:S108›")Either remove or fill this block of code.(å¥‡
+j
+java:S1192¹"NDefine a constant instead of duplicating this literal "vehicle_types" 3 times.(áÖıÛÿÿÿÿÿ
+@
+java:S1659š"$Declare "mMonth" on a separate line.(İ¤Ï½øÿÿÿÿ
+G
+java:S1068š"+Remove this unused "mMinute" private field.(İ¤Ï½øÿÿÿÿ
+u
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼“¨øÿÿÿÿ
+E
+java:S1659š")Declare "vehicleType" on a separate line.(İ¤Ï½øÿÿÿÿ
+;
+java:S1659›"$Declare "mobile" on a separate line.(²…Ò×
+<
+java:S1659œ"%Declare "myToken" on a separate line.(ãØşá
+W
+java:S1117Í"@Rename "vehicleType" which hides the field declared at line 154.(ª´–
+P
+java:S1117ê"9Rename "name" which hides the field declared at line 155.(‡°Í™
+c
+java:S1192Š"GDefine a constant instead of duplicating this literal "image" 10 times.(â¥âÿÿÿÿÿ
+A
+java:S1659š"%Declare "mMinute" on a separate line.(İ¤Ï½øÿÿÿÿ
+D
+java:S1604¼"(Make this anonymous inner class a lambda(şæÇ®üÿÿÿÿ
+L
+java:S1874ª"6Remove this use of "ProgressDialog"; it is deprecated.(§ÜÆn
+p
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª­·‰
+u
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ØóŞıÿÿÿÿ
+u
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(’ˆ©š
+Q
+java:S1128";Remove this unused import 'android.gesture.GestureLibrary'.(ñØ¹Û
+;
+java:S1659›"$Declare "gender" on a separate line.(²…Ò×
+L
+java:S1874ø"0Remove this use of "getColor"; it is deprecated.(é£¿îüÿÿÿÿ
+W
+java:S1117á";Rename "driver" which hides the field declared at line 159.(¸„İÑşÿÿÿÿ
+|
+java:S1450"eRemove the "expiryDatePickerDialog" field and declare it as a local variable in the relevant methods.(¸É 
+z
+java:S1488¤"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ù–Èéùÿÿÿÿ
+u
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼“¨øÿÿÿÿ
+C
+java:S1659œ",Declare "insuranceImage" on a separate line.(ãØşá
+Q
+java:S1128"6Remove this unused import 'android.widget.DatePicker'.(µö—şÿÿÿÿ
+G
+java:S1874ê"0Remove this use of "getColor"; it is deprecated.(‹¾ş‹
+L
+java:S1874ğ"0Remove this use of "getColor"; it is deprecated.(Ø”Ê³ıÿÿÿÿ
+u
+java:S2293Ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼“¨øÿÿÿÿ
+V
+java:S11281"@Remove this unused import 'com.taxiappclone.common.model.Rider'.(Ù¢Á
+E
+java:S1068š")Remove this unused "mHour" private field.(İ¤Ï½øÿÿÿÿ
+D
+java:S1604·"(Make this anonymous inner class a lambda(–¥ùúÿÿÿÿ
+<
+java:S1659œ"%Declare "rcImage" on a separate line.(ãØşá
+G
+java:S1874à"0Remove this use of "getToken"; it is deprecated.(³Ù’º

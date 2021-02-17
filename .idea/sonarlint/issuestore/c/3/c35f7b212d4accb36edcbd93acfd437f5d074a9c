@@ -1,0 +1,57 @@
+
+g
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ
+b
+java:S1192k"GDefine a constant instead of duplicating this literal "mobile" 6 times.(§ã€Òûÿÿÿÿ
+^
+java:S1192†"GDefine a constant instead of duplicating this literal "status" 3 times.(øê½ 
+V	java:S110;"<This class has 9 parents which is greater than 5 authorized.(¿şÔ´úÿÿÿÿ
+C
+java:S1604r"(Make this anonymous inner class a lambda(ºÚÚãøÿÿÿÿ
+D
+java:S1604Ø"(Make this anonymous inner class a lambda(¥íîŸÿÿÿÿÿ
+z
+java:S1488û"^Immediately return this expression instead of assigning it to the temporary variable "result".(‚¯½ùúÿÿÿÿ
+u
+java:S1488¯"^Immediately return this expression instead of assigning it to the temporary variable "result".(¥±ä¢
+7
+java:S1659M""Declare "time" on a separate line.(³Ê@
+;
+java:S1659N"%Declare "otpCode" on a separate line.(ÿ›ÔÜ
+D
+java:S1659N".Declare "redirectActivity" on a separate line.(ÿ›ÔÜ
+;
+java:S1659N"%Declare "purpose" on a separate line.(ÿ›ÔÜ
+<
+java:S1659N"&Declare "password" on a separate line.(ÿ›ÔÜ
+Q
+java:S1874P"6Remove this use of "ProgressDialog"; it is deprecated.(®ÿô´ùÿÿÿÿ
+K
+java:S1874o"6Remove this use of "ProgressDialog"; it is deprecated.(§ÜÆn
+i
+java:S1871º"MThis branch's code block is the same as the block for the branch on line 184.(ÿø’ÿÿÿÿÿ
+u
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ØóŞıÿÿÿÿ
+?	java:S108š")Either remove or fill this block of code.(å¥‡
+u
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ØóŞıÿÿÿÿ
+u
+java:S2293¦"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼“¨øÿÿÿÿ
+?	java:S108Ó")Either remove or fill this block of code.(å¥‡
+=	java:S131""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+8	java:S131©""Add a default case to this switch.(ºÖ
+F
+java:S1068="0Remove this unused "REQ_GET_USER" private field.( ¾ê
+?
+java:S1068M"*Remove this unused "userId" private field.(³Ê@
+A
+java:S1068N"+Remove this unused "otpCode" private field.(ÿ›ÔÜ
+J
+java:S1068N"4Remove this unused "redirectActivity" private field.(ÿ›ÔÜ
+A
+java:S1068N"+Remove this unused "purpose" private field.(ÿ›ÔÜ
+B
+java:S1068N",Remove this unused "password" private field.(ÿ›ÔÜ
+D
+java:S1068Q")Remove this unused "timer" private field.(å¡Ê˜ûÿÿÿÿ
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(ß½’–şÿÿÿÿ

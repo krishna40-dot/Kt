@@ -1,0 +1,18 @@
+
+t
+java:S1488("^Immediately return this expression instead of assigning it to the temporary variable "result".(¬ıË¤
+L
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+Q
+java:S1128	"6Remove this unused import 'com.taxiappclone.common.R'.(Àìºãşÿÿÿÿ
+—
+java:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ËĞƒ
+_
+java:S1858/"I"result" is already a string, there's no need to call "toString()" on it.(ƒ‘¯†
+@
+java:S1068"+Remove this unused "context" private field.(êİç
+F
+java:S1068"1Remove this unused "mRegisterTask" private field.(¨ûæ:
+V	java:S125;"<This block of commented-out lines of code should be removed.(…øéÒúÿÿÿÿ

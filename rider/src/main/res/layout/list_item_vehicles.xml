@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:focusable="true"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="0dp"
+    app:cardElevation="2dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+        <RelativeLayout
+            android:id="@+id/view_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/img_vehicle"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:layout_alignParentStart="true"
+                android:layout_marginRight="15dp"
+                android:src="@drawable/vehicle" />
+
+            <TextView
+                android:id="@+id/tv_vehicle_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="-2dp"
+                android:layout_toEndOf="@+id/img_vehicle"
+                android:singleLine="true"
+                android:text="Sedan"
+                android:textColor="@color/text_color_dark"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_vehicle_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_vehicle_name"
+                android:layout_toEndOf="@+id/img_vehicle"
+                android:text="Vehicle Detail"
+                android:textColor="#454545"
+                android:textSize="14sp" />
+
+            <Button
+                android:id="@+id/btn_view_more"
+                style="@style/MyBorderlessButton"
+                android:layout_width="50dp"
+                android:layout_height="15dp"
+                android:layout_below="@id/tv_vehicle_description"
+                android:layout_toEndOf="@+id/img_vehicle"
+                android:padding="0dp"
+                android:text="More"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="12dp" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorDivider" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/view_passenger"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/border_theme_color"
+                android:orientation="horizontal"
+                android:paddingBottom="1dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="10dp"
+                android:paddingTop="1dp"
+                android:layout_marginTop="2dp">
+
+                <ImageView
+                    android:layout_width="16dp"
+                    android:layout_height="16dp"
+                    android:layout_gravity="center_vertical"
+                    app:srcCompat="@drawable/ic_person_black" />
+
+                <TextView
+                    android:id="@+id/tv_passenger_capacity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:text="0"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/view_luggage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_toEndOf="@id/view_passenger"
+                android:background="@drawable/border_theme_color"
+                android:orientation="horizontal"
+                android:paddingBottom="1dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="10dp"
+                android:paddingTop="1dp"
+                android:layout_marginTop="2dp">
+
+                <ImageView
+                    android:layout_width="16dp"
+                    android:layout_height="16dp"
+                    android:layout_gravity="center_vertical"
+                    app:srcCompat="@drawable/ic_luggage_black_24dp" />
+
+                <TextView
+                    android:id="@+id/tv_luggage_capacity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/img_vehicle"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:text="0"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_amount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:text="₹00.00"
+                android:textColor="@color/cpb_blue"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btn_book_now"
+                style="@style/ButtonPrimary"
+                android:layout_width="100dp"
+                android:layout_height="25dp"
+                android:layout_centerHorizontal="true"
+                android:padding="0dp"
+                android:text="Book Now"
+                android:textSize="14sp" />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

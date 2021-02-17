@@ -1,0 +1,37 @@
+
+b
+java:S1301Ü"KReplace this "switch" statement by "if" statements to increase readability.(ºÓ©¦
+Q	java:S110("<This class has 9 parents which is greater than 5 authorized.(‹ßğÒ
+?
+java:S1604Æ"(Make this anonymous inner class a lambda(Õä
+t
+java:S1488v"^Immediately return this expression instead of assigning it to the temporary variable "result".(â¹õÀ
+s
+java:S1450+"XRemove the "actionBar" field and declare it as a local variable in the relevant methods.(ÒïÍ°ÿÿÿÿÿ
+l
+java:S1450-"QRemove the "db" field and declare it as a local variable in the relevant methods.(¹Çİ•ûÿÿÿÿ
+r
+java:S14500"WRemove the "listView" field and declare it as a local variable in the relevant methods.(´‹Šáøÿÿÿÿ
+l
+java:S1450*"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(ş®º—
+Q
+java:S1874."6Remove this use of "ProgressDialog"; it is deprecated.(®ÿô´ùÿÿÿÿ
+K
+java:S1874I"6Remove this use of "ProgressDialog"; it is deprecated.(§ÜÆn
+…
+java:S1130d"oRemove the declaration of thrown exception 'org.json.JSONException', as it cannot be thrown from method's body.(‚ş§ˆ
+o
+java:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öİ±
+Q
+java:S1854ˆ":Remove this useless assignment to local variable "amount".(×”‘¦
+D	java:S108¡")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+D
+java:S1172¶"-Remove this unused method parameter "status".(¡Å­²
+8	java:S131Ü""Add a default case to this switch.(ºÓ©¦
+A
+java:S1068-"&Remove this unused "db" private field.(¹Çİ•ûÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(ïïÓÿÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(‡ºÙùÿÿÿÿ
+R	java:S125Â"<This block of commented-out lines of code should be removed.(«ƒø€
+E
+java:S1144¶".Remove this unused private "showAlert" method.(¡Å­²

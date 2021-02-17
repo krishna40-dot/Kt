@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.taxiappclone.driver.activity.StoredLocationsActivity"
+    android:background="@color/colorActivityBackground">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <include android:id="@+id/toolbar" layout="@layout/toolbar"/>
+    </com.google.android.material.appbar.AppBarLayout>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:overScrollMode="never"
+        android:fadingEdge="none"
+        android:scrollbars="none"/>
+    <LinearLayout
+        android:id="@+id/view_no_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_color_dark"
+        android:textAlignment="center"
+        android:layout_marginTop="50dp"
+        android:text="@string/no_locations_found"/>
+    <Button
+        android:id="@+id/btn_add_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/ButtonPrimary"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:text="@string/add_a_location"/>
+    </LinearLayout>
+</LinearLayout>

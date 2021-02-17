@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/dimen_15dp"
+    android:background="@color/white"
+    >
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <include android:id="@+id/toolbar" layout="@layout/toolbar"/>
+    </com.google.android.material.appbar.AppBarLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="15dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        >
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/txt_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name on card"
+            app:met_floatingLabelText="Name"
+            android:textSize="20sp"
+            app:met_baseColor="@color/color_gray_normal"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="?colorAccent"
+            app:met_singleLineEllipsis="true"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/spinner_address_type"
+            />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/txt_card_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Card number"
+            android:textSize="20sp"
+            android:inputType="number"
+            app:met_baseColor="@color/color_gray_normal"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="?colorAccent"
+            app:met_singleLineEllipsis="true"
+            android:layout_marginTop="10dp"
+            android:layout_below="@id/txt_name"
+            />
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/txt_expiry"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Exp Date"
+            android:textSize="20sp"
+            android:inputType="number"
+            android:maxLength="5"
+            app:met_baseColor="@color/color_gray_normal"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="?colorAccent"
+            app:met_singleLineEllipsis="true"
+            android:layout_marginTop="10dp"
+            android:layout_toLeftOf="@+id/view1"
+            />
+        <!--<RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/txt_expiry"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Exp Date"
+                android:textSize="20sp"
+                android:inputType="number"
+                android:maxLength="5"
+                app:met_baseColor="@color/color_gray_normal"
+                app:met_floatingLabel="highlight"
+                app:met_primaryColor="?colorAccent"
+                app:met_singleLineEllipsis="true"
+                android:layout_marginTop="10dp"
+                android:layout_toLeftOf="@+id/view1"
+                />
+            <View
+                android:id="@+id/view1"
+                android:layout_width="1dp"
+                android:layout_height="5dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"/>
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/txt_cvv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="CVV code"
+                android:maxLength="3"
+                android:inputType="number"
+                android:textSize="20sp"
+                app:met_baseColor="@color/color_gray_normal"
+                app:met_floatingLabel="highlight"
+                app:met_primaryColor="?colorAccent"
+                app:met_singleLineEllipsis="true"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@+id/view1"
+                />
+
+        </RelativeLayout>-->
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/txt_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Billing address"
+            android:textSize="20sp"
+            app:met_baseColor="@color/color_gray_normal"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="?colorAccent"
+            app:met_singleLineEllipsis="true"
+            android:layout_marginTop="10dp"
+            />
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/txt_postal_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Postal code"
+            android:textSize="20sp"
+            android:inputType="number"
+            app:met_baseColor="@color/color_gray_normal"
+            app:met_floatingLabel="highlight"
+            app:met_primaryColor="?colorAccent"
+            app:met_singleLineEllipsis="true"
+            />
+        <Button
+            android:id="@+id/btn_add_card"
+            style="@style/ButtonPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="  Add  "
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop= "10dp"
+            android:layout_marginBottom="10dp"/>
+    </LinearLayout>
+</LinearLayout>

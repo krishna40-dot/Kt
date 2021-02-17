@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="165dp"
+    android:gravity="bottom"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <ImageView
+        android:id="@+id/cover_image"
+        android:layout_width="fill_parent"
+        android:layout_height="190dp"
+        android:background="@drawable/bg_nav_head"
+        android:scaleType="centerCrop" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="15dp"
+        android:paddingLeft="@dimen/dimen_20dp"
+        android:paddingRight="@dimen/dimen_20dp"
+        android:paddingBottom="@dimen/dimen_5dp">
+        <!--<com.taxiappclone.common.view.CircleImageView
+            android:id="@+id/profile_pic"
+            android:layout_width="70.0dip"
+            android:layout_height="70.0dip"
+            android:layout_marginTop="15.0dip"
+            android:src="@drawable/user"
+            app:civ_border_color="#ff000000"
+            app:civ_border_width="0.0dip" />-->
+        <TextView
+            android:id="@+id/tvProfile"
+            android:layout_width="70.0dip"
+            android:layout_height="70.0dip"
+            android:layout_marginTop="15.0dip"
+            android:background="@drawable/bg_circle_white"
+            android:gravity="center_vertical"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="30sp"
+            android:text="XX"
+            android:visibility="gone"/>
+        <com.taxiappclone.common.view.CircleImageView
+            android:id="@+id/imgUser"
+            android:layout_width="70.0dip"
+            android:layout_height="70.0dip"
+            android:layout_marginTop="15.0dip"
+            android:src="@drawable/user"
+            app:civ_border_color="#ff000000"
+            app:civ_border_width="0.0dip" />
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome User"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:layout_marginTop="5dp"
+            android:layout_below="@+id/imgUser"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:id="@+id/btnEditProfile"
+            style="@style/MyBorderlessButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white1"
+            android:text="Edit Profile"
+            android:textSize="14sp"
+            android:paddingStart="0dp"
+            android:paddingLeft="0dp"
+            android:paddingTop="5dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:layout_below="@+id/tvName"
+            android:layout_alignStart="@+id/tvName" />
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".activity.EditDriverProfileActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/toolbarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingTop="40dp"
+            android:paddingBottom="40dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:text="Personal Information"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.BoldFont" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/gray5" />
+
+            <com.taxiappclone.common.view.CircleImageView
+                android:id="@+id/ivProfile"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/dimen_20dp"
+                android:src="@drawable/user" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnBrowse"
+                style="@style/ButtonPrimary"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:paddingStart="@dimen/dimen_20dp"
+                android:paddingEnd="@dimen/dimen_20dp"
+                android:text="Browse" />
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/inputName"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dimen_20dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginEnd="@dimen/dimen_20dp"
+                android:hint="@string/hint_name"
+                android:inputType="textPersonName"
+                android:paddingStart="15dp"
+                android:paddingEnd="@dimen/dimen_15dp"
+                android:textSize="16sp"
+                app:met_floatingLabel="highlight" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tvDOB"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dimen_20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="@dimen/dimen_20dp"
+                android:drawableEnd="@drawable/ic_calendar"
+                android:hint="Date of Birth"
+                app:met_baseColor="@color/color_gray_normal"
+                app:met_floatingLabel="highlight"
+                app:met_primaryColor="?colorAccent"
+                app:met_singleLineEllipsis="true" />
+
+            <fr.ganfra.materialspinner.MaterialSpinner
+                android:id="@+id/spinnerGender"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dimen_20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="@dimen/dimen_20dp"
+                android:entries="@array/gender_array"
+                app:ms_arrowColor="@color/color_gray_normal"
+                app:ms_baseColor="@color/colorLightGray"
+                app:ms_floatingLabelColor="@color/gray2"
+                app:ms_hint="@string/gender"
+                app:ms_hintColor="@color/gray2" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp"
+                android:text="Vehicle Information"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.BoldFont" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/gray5" />
+
+            <fr.ganfra.materialspinner.MaterialSpinner
+                android:id="@+id/spinnerVehicleType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dimen_20dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginEnd="@dimen/dimen_20dp"
+                app:ms_arrowColor="@color/color_gray_normal"
+                app:ms_baseColor="@color/colorLightGray"
+                app:ms_floatingLabelColor="@color/gray2"
+                app:ms_hint="@string/vehicle_type"
+                app:ms_hintColor="@color/gray2" />
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/inputModel"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dimen_20dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="@dimen/dimen_20dp"
+                android:hint="@string/vehicle_model_name"
+                android:inputType="text"
+                android:paddingStart="15dp"
+                android:paddingEnd="@dimen/dimen_15dp"
+                android:textSize="16sp"
+                app:met_floatingLabel="highlight" />
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/inputRegistrationNumber"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dimen_20dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="@dimen/dimen_20dp"
+                android:hint="@string/vehicle_registration_number"
+                android:inputType="text"
+                android:paddingStart="15dp"
+                android:paddingEnd="@dimen/dimen_15dp"
+                android:textSize="16sp"
+                app:met_floatingLabel="highlight" />
+
+            <RelativeLayout
+                android:id="@+id/viewUploadDrivingLicense"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dimen_20dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="@dimen/dimen_20dp">
+
+                <ImageView
+                    android:id="@+id/imgDrivingLicense"
+                    android:layout_width="100dp"
+                    android:layout_height="60dp"
+                    android:background="@color/gray1"
+                    android:scaleType="centerCrop"
+                    app:srcCompat="@drawable/ic_add_a_photo_black_24dp" />
+
+                <TextView
+                    android:id="@+id/tvUploadLicense"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="15dp"
+                    android:layout_toEndOf="@id/imgDrivingLicense"
+                    android:text="@string/upload_driving_license"
+                    android:textColor="@color/color_gray_dark" />
+            </RelativeLayout>
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/inputExpiry"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dimen_20dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="@dimen/dimen_20dp"
+                android:hint="@string/license_expiry_date"
+                android:inputType="text"
+                android:paddingStart="15dp"
+                android:paddingEnd="@dimen/dimen_15dp"
+                android:textSize="16sp"
+                app:met_floatingLabel="highlight" />
+
+            <RelativeLayout
+                android:id="@+id/viewUploadRC"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dimen_20dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="@dimen/dimen_20dp">
+
+                <ImageView
+                    android:id="@+id/imgRegistrationCard"
+                    android:layout_width="100dp"
+                    android:layout_height="60dp"
+                    android:background="@color/gray1"
+                    android:scaleType="centerCrop"
+                    app:srcCompat="@drawable/ic_add_a_photo_black_24dp" />
+
+                <TextView
+                    android:id="@+id/tvUploadRc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="15dp"
+                    android:layout_toEndOf="@id/imgRegistrationCard"
+                    android:text="@string/upload_registration_card"
+                    android:textColor="@color/color_gray_dark" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/viewInsurance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dimen_20dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="@dimen/dimen_20dp">
+
+                <ImageView
+                    android:id="@+id/imgInsurance"
+                    android:layout_width="100dp"
+                    android:layout_height="60dp"
+                    android:background="@color/gray1"
+                    android:scaleType="centerCrop"
+                    app:srcCompat="@drawable/ic_add_a_photo_black_24dp" />
+
+                <TextView
+                    android:id="@+id/tvUploadInsurance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="15dp"
+                    android:layout_toEndOf="@id/imgInsurance"
+                    android:text="@string/upload_insurance"
+                    android:textColor="@color/color_gray_dark" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/viewPolice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dimen_20dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="@dimen/dimen_20dp">
+
+                <ImageView
+                    android:id="@+id/imgPolice"
+                    android:layout_width="100dp"
+                    android:layout_height="60dp"
+                    android:background="@color/gray1"
+                    android:scaleType="centerCrop"
+                    app:srcCompat="@drawable/ic_add_a_photo_black_24dp" />
+
+                <TextView
+                    android:id="@+id/tvUploadPolice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="15dp"
+                    android:layout_toEndOf="@id/imgPolice"
+                    android:text="Upload Police Verification"
+                    android:textColor="@color/color_gray_dark" />
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/btnSubmit"
+                style="@style/ButtonPrimaryLarge"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginStart="@dimen/dimen_20dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="@dimen/dimen_20dp"
+                android:text="Update" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.appcompat.widget.LinearLayoutCompat>

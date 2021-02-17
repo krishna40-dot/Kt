@@ -1,0 +1,48 @@
+
+i
+java:S1192«"MDefine a constant instead of duplicating this literal "card_network" 4 times.(¼±‘Şøÿÿÿÿ
+r
+java:S1450K"WRemove the "listView" field and declare it as a local variable in the relevant methods.(´‹Šáøÿÿÿÿ
+K
+java:S1874m"6Remove this use of "ProgressDialog"; it is deprecated.(§ÜÆn
+n
+java:S3252…"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(Œª–ï8¶±ß¦Â.
+W	java:S125«"<This block of commented-out lines of code should be removed.(ïïÓÿÿÿÿÿ
+=	java:S131ô""Add a default case to this switch.(øå´¡ÿÿÿÿÿ
+l
+java:S1450E"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(ş®º—
+Z
+java:S2583¬"CChange this condition so that it does not always evaluate to "true"(ËÄÒ‚
+F	java:S108")Either remove or fill this block of code.(å¥‡8İƒä¦Â.
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‚ş§ˆ
+?	java:S108Ä")Either remove or fill this block of code.(å¥‡
+Q
+java:S1874I"6Remove this use of "ProgressDialog"; it is deprecated.(®ÿô´ùÿÿÿÿ
+s
+java:S1450F"XRemove the "actionBar" field and declare it as a local variable in the relevant methods.(ÒïÍ°ÿÿÿÿÿ
+F	java:S108‡")Either remove or fill this block of code.(å¥‡8İƒä¦Â.
+|
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼“¨øÿÿÿÿ8İƒä¦Â.
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(åÙ‡øÿÿÿÿ
+R	java:S110C"=This class has 10 parents which is greater than 5 authorized.(³‰ Ğ
+|
+java:S1450Q"ZRemove the "btnAddMoney" field and declare it as a local variable in the relevant methods.(ëË‚Åüÿÿÿÿ8ù¬İ¦Â.
+|
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ØóŞıÿÿÿÿ8İƒä¦Â.
+z
+java:S1488¤"^Immediately return this expression instead of assigning it to the temporary variable "result".(€•ã§şÿÿÿÿ
+`
+java:S1858ª"I"result" is already a string, there's no need to call "toString()" on it.(’óš
+|
+java:S1488ñ"^Immediately return this expression instead of assigning it to the temporary variable "result".(“Üï8›ôæ¦Â.
+p
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öİ±
+g
+java:S1301ô"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+l
+java:S1192«"PDefine a constant instead of duplicating this literal "billing_address" 4 times.(¼±‘Şøÿÿÿÿ
+†
+java:S1130"oRemove the declaration of thrown exception 'org.json.JSONException', as it cannot be thrown from method's body.(‚ş§ˆ
+m
+java:S1192«"QDefine a constant instead of duplicating this literal "card_holder_name" 4 times.(¼±‘Şøÿÿÿÿ

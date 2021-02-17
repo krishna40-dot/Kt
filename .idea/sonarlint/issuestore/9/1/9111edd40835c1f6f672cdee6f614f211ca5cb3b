@@ -1,0 +1,48 @@
+
+F	java:S108ô")Either remove or fill this block of code.(å¥‡8¾˜Æ×Á.
+F	java:S108î")Either remove or fill this block of code.(å¥‡8¾˜Æ×Á.
+
+java:S1488£"^Immediately return this expression instead of assigning it to the temporary variable "result".(€•ã§şÿÿÿÿ8¾˜Æ×Á.
+F	java:S108Ã")Either remove or fill this block of code.(å¥‡8¾˜Æ×Á.
+|
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ØóŞıÿÿÿÿ8¾˜Æ×Á.
+n
+java:S3252„"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(Œª–ï8¼ÿµ×Á.
+|
+java:S1450P"ZRemove the "btnAddMoney" field and declare it as a local variable in the relevant methods.(ëË‚Åüÿÿÿÿ8Ô°×Á.
+|
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼“¨øÿÿÿÿ8¾˜Æ×Á.
+s
+java:S1192"PDefine a constant instead of duplicating this literal "billing_address" 4 times.(¼±‘Şøÿÿÿÿ8¾˜Æ×Á.
+|
+java:S1488Ş"^Immediately return this expression instead of assigning it to the temporary variable "result".(¥±ä¢8¾˜Æ×Á.
+t
+java:S1192"QDefine a constant instead of duplicating this literal "card_holder_name" 4 times.(¼±‘Şøÿÿÿÿ8¾˜Æ×Á.
+l
+java:S1450D"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(ş®º—
+y
+java:S1450J"WRemove the "listView" field and declare it as a local variable in the relevant methods.(´‹Šáøÿÿÿÿ8ÉÜ„ÖÁ.
+^	java:S125ª"<This block of commented-out lines of code should be removed.(ïïÓÿÿÿÿÿ8¾˜Æ×Á.
+n
+java:S1301ó"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8¾˜Æ×Á.
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‚ş§ˆ8¾˜Æ×Á.
+g
+java:S1858©"I"result" is already a string, there's no need to call "toString()" on it.(’óš8¾˜Æ×Á.
+V	java:S110B"<This class has 9 parents which is greater than 5 authorized.(Äìåøÿÿÿÿ
+^	java:S125×"<This block of commented-out lines of code should be removed.(åÙ‡øÿÿÿÿ8¾˜Æ×Á.
+
+java:S1130"oRemove the declaration of thrown exception 'org.json.JSONException', as it cannot be thrown from method's body.(‚ş§ˆ8¶Ç÷ØÁ.
+R
+java:S1874l"6Remove this use of "ProgressDialog"; it is deprecated.(§ÜÆn8„ö×Á.
+a
+java:S2583«"CChange this condition so that it does not always evaluate to "true"(ËÄÒ‚8¾˜Æ×Á.
+Q
+java:S1874H"6Remove this use of "ProgressDialog"; it is deprecated.(®ÿô´ùÿÿÿÿ
+p
+java:S1192"MDefine a constant instead of duplicating this literal "card_network" 4 times.(¼±‘Şøÿÿÿÿ8¾˜Æ×Á.
+D	java:S131ó""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8¾˜Æ×Á.
+s
+java:S1450E"XRemove the "actionBar" field and declare it as a local variable in the relevant methods.(ÒïÍ°ÿÿÿÿÿ
+w
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öİ±8¾˜Æ×Á.

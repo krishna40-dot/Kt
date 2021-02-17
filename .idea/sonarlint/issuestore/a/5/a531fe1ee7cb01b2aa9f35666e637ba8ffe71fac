@@ -1,0 +1,50 @@
+
+>
+java:S1659%"(Declare "txtAddress" on a separate line.(€ß‹
+T
+java:S1068)"9Remove this unused "mAutoCompleteListView" private field.(¤ğáµøÿÿÿÿ
+c
+java:S1104""MMake d a static final constant or non-public and provide accessors if needed.(¬äâÜ
+t
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(âà¥…üÿÿÿÿ
+l
+java:S1104%"VMake txtAddress a static final constant or non-public and provide accessors if needed.(€ß‹
+ô
+java:S1598"İThis file "AddLocationDialog.java" should be located in "com\taxiappclone\river\dialog" directory, not in "C:\NON_WONDOWS\ANDROID_STUDIO\PROJECT\TaxiAppClone Android App\rider\src\main\java\com\taxiappclone\rider\dialog".(‡–äë
+B
+java:S1659'"'Declare "longitude" on a separate line.(öîƒÆÿÿÿÿÿ
+m
+java:S1104%"WMake txtAptSuite a static final constant or non-public and provide accessors if needed.(€ß‹
+?
+java:S1659%")Declare "txtAptSuite" on a separate line.(€ß‹
+j
+java:S1104!"TMake activity a static final constant or non-public and provide accessors if needed.(î«ùù
+\
+java:S1874*"ARemove this use of "PlaceAutocompleteFragment"; it is deprecated.(…§ÿÿÿÿÿ
+k	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³İ°üÿÿÿÿ
+V	java:S125\"<This block of commented-out lines of code should be removed.(Ç½¦ ÿÿÿÿÿ
+i
+java:S1104%"SMake txtName a static final constant or non-public and provide accessors if needed.(€ß‹
+w
+java:S1450-"\Remove the "tvDialogTitle" field and declare it as a local variable in the relevant methods.(»¥¹ÿÿÿÿÿ
+g
+java:S1104#"QMake theme a static final constant or non-public and provide accessors if needed.(êñ“‡
+F
+java:S5411ˆ"*Use the primitive boolean expression here.(Öî¸Ãıÿÿÿÿ
+N
+java:S1854<"8Remove this useless assignment to local variable "bool".(‹ä…Ä
+>
+java:S1604H"(Make this anonymous inner class a lambda(òõÇÔ
+P
+java:S1068*"5Remove this unused "autoPlaceFragment" private field.(…§ÿÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(Ş«ë¸úÿÿÿÿ
+y
+java:S1104&"^Make spinnerAddressType a static final constant or non-public and provide accessors if needed.(­ÌüÈûÿÿÿÿ
+P
+java:S1161:":Add the "@Override" annotation above this method signature(ğÁö¾
+p
+java:S1104$"ZMake btnAddLocation a static final constant or non-public and provide accessors if needed.(·¶éã
+
+java:S1450)"dRemove the "mAutoCompleteListView" field and declare it as a local variable in the relevant methods.(¤ğáµøÿÿÿÿ
+?
+java:S1481<")Remove this unused "bool" local variable.(‹ä…Ä

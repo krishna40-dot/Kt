@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Activity Titles -->
+    <string name="title_activity_signin">Login</string>
+    <string name="title_activity_signup">Register</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email address or Mobile No.</string>
+    <string name="prompt_password">Enter your password</string>
+    <string name="hint_username">Email</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="hint_signup">Not a user?</string>
+    <string name="link_signup">Register Now</string>
+    <string name="txt_signin">Login</string>
+    <string name="txt_signup">Register</string>
+
+
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="plus_sign_out">Switch Google+ account</string>
+    <string name="plus_disconnect">Disconnect from Google+</string>
+    <string name="error_email">Enter your email</string>
+    <string name="error_password">Enter your password</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+    <string name="hint_fname">First Name</string>
+    <string name="hint_lname">Last Name</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_mobile">Mobile No.</string>
+    <string name="hint_pwd">Password (6-20 characters)</string>
+    <string name="txt_signup_declaration">By creating this account, I agree blaxxi.com\'s
+        <a href="http://www.blaxxi.com">Terms &amp; condition</a> &amp; <a href="http://www.blaxxi.com">Privacy Policy</a>.</string>
+    <string name="txt_already_a_user">Already have an account?</string>
+    <string name="link_signin">Log In</string>
+
+    <string name="txt_search">Search</string>
+    <string name="txt_home">Home</string>
+    <string name="title_activity_driver_map">Driver Map</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="google_api_browser_key">AIzaSyCKo2cqrXlDynb1vs5G8itDhiIh2aT1OBA</string>
+    <string name="title_activity_rider_map">Rider Map</string>
+    <string name="title_activity_stored_locations">My Addresses</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="no_locations_found">No Locations found</string>
+    <string name="add_a_location">Add a address</string>
+    <string name="location_saved">Location saved</string>
+    <string name="location_updated">Location updated</string>
+    <string name="no_vehicles_found">No vehicles found in selected area.</string>
+    <string name="go_back">Go Back</string>
+    <string name="add_a_card">Add a card</string>
+    <string name="txt_reservation_received">Your reservation has been received. Should you have any questions or concerns, please feel free to contact us by phone at (888)435-0104.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="driver_sign_up">Driver Sign Up</string>
+    <string name="driver_login">Driver Login</string>
+    <string name="ride_accepted">Ride request accepted</string>
+    <string name="driver_coming">Your driver is coming...</string>
+    <string name="ride_rejected">Ride request rejected</string>
+    <string name="driver_rejected_ride">Sorry, Driver rejected your ride request. Please try again later.</string>
+    <string name="cancel_ride">CANCEL RIDE</string>
+    <string name="rider_info">RIDER INFO</string>
+    <string name="pick_up">PICK UP</string>
+    <string name="drop_off">DROP OFF</string>
+    <string name="payment_type">Payment Type</string>
+    <string name="estimated_fare">Estimated Fare</string>
+    <string name="slide_to_start_ride">SLIDE TO START RIDE</string>
+    <string name="slide_to_end_ride">SLIDE TO END RIDE</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="title_activity_collect_fare">CollectFareActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="collect_fare">Collect Fare</string>
+    <string name="ok">OK</string>
+    <string name="txt_login_register">SIGNIN | SIGNUP</string>
+    <string name="didnt_received_otp_tap_here_to_resend">Didn\'t received OTP? Tap here to Resend</string>
+
+    <string name="hint_dob">Date of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="please_select_an_image">Please select an image</string>
+    <string name="fare_detail">Fare Detail</string>
+    <string name="contact"><u>+91 89556 70599</u></string>
+
+    <string name="status"><![CDATA[<u><font color=\'black\'>Status</font></u>:]]></string>
+    <string name="date"><![CDATA[<u><font color=\'black\'>Date</font></u>:]]></string>
+    <string name="pickup_l"><![CDATA[<u><font color=\'black\'>Pickup Location</font></u>:]]></string>
+    <string name="drop"><![CDATA[<u><font color=\'black\'>Drop Location</font></u>:]]></string>
+    <string name="fare"><![CDATA[<u><font color=\'black\'>Fare</font></u>: RS.]]></string>
+    <string name="distance"><![CDATA[<u><font color=\'black\'>Distance</font></u>:]]></string>
+</resources>

@@ -1,0 +1,20 @@
+
+a
+java:S1301?"KReplace this "switch" statement by "if" statements to increase readability.(ºÓ©¦
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(Î‰€
+>
+java:S16042"(Make this anonymous inner class a lambda(°Ÿ™»
+s
+java:S1450"XRemove the "actionBar" field and declare it as a local variable in the relevant methods.(ÒïÍ°ÿÿÿÿÿ
+w
+java:S1450"aRemove the "btnBookAnotherTrip" field and declare it as a local variable in the relevant methods.(‚äôü
+l
+java:S1450"VRemove the "session" field and declare it as a local variable in the relevant methods.(¢þ†–
+l
+java:S1450"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(þ®º—
+~
+java:S1450"cRemove the "tvConfirmationNumber" field and declare it as a local variable in the relevant methods.(Üˆ­âýÿÿÿÿ
+7	java:S131?""Add a default case to this switch.(ºÓ©¦
+A
+java:S1068"+Remove this unused "session" private field.(¢þ†–
+V	java:S125Q"<This block of commented-out lines of code should be removed.(–“Åýÿÿÿÿ

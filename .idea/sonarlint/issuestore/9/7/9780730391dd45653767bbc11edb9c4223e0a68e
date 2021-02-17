@@ -1,0 +1,35 @@
+
+L
+java:S1153M"1Directly append the argument of String.valueOf().(ßÒÔ‰úÿÿÿÿ
+C
+java:S1604N"(Make this anonymous inner class a lambda(Ç‚ª„úÿÿÿÿ
+=
+java:S1604X"(Make this anonymous inner class a lambda(ù°Ê+
+o
+java:S1104%"YMake tvVehicleName a static final constant or non-public and provide accessors if needed.(µÓšĞ
+v
+java:S1104%"`Make tvVehicleDescription a static final constant or non-public and provide accessors if needed.(µÓšĞ
+u
+java:S1104%"_Make tvPassengerCapacity a static final constant or non-public and provide accessors if needed.(µÓšĞ
+s
+java:S1104%"]Make tvLuggageCapacity a static final constant or non-public and provide accessors if needed.(µÓšĞ
+j
+java:S1104%"TMake tvAmount a static final constant or non-public and provide accessors if needed.(µÓšĞ
+l
+java:S1104&"VMake imgVehicle a static final constant or non-public and provide accessors if needed.(ÿÏÏÜ
+q
+java:S1104'"VMake btnBookNow a static final constant or non-public and provide accessors if needed.(ŠÎˆïüÿÿÿÿ
+r
+java:S1104'"WMake btnViewMore a static final constant or non-public and provide accessors if needed.(ŠÎˆïüÿÿÿÿ
+H
+java:S1659%"2Declare "tvVehicleDescription" on a separate line.(µÓšĞ
+G
+java:S1659%"1Declare "tvPassengerCapacity" on a separate line.(µÓšĞ
+E
+java:S1659%"/Declare "tvLuggageCapacity" on a separate line.(µÓšĞ
+<
+java:S1659%"&Declare "tvAmount" on a separate line.(µÓšĞ
+D
+java:S1659'")Declare "btnViewMore" on a separate line.(ŠÎˆïüÿÿÿÿ
+@
+java:S1068"+Remove this unused "session" private field.(òÍ†R

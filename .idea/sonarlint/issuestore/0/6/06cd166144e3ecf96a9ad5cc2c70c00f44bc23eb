@@ -1,0 +1,35 @@
+
+[	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(öå¼¨úÿÿÿÿ
+i
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ
+f
+java:S1104	"PMake name a static final constant or non-public and provide accessors if needed.(»ŒëÎ
+i
+java:S1104	"SMake address a static final constant or non-public and provide accessors if needed.(»ŒëÎ
+m
+java:S1104	"WMake addressType a static final constant or non-public and provide accessors if needed.(»ŒëÎ
+f
+java:S1104	"PMake city a static final constant or non-public and provide accessors if needed.(»ŒëÎ
+m
+java:S1104	"WMake countryCode a static final constant or non-public and provide accessors if needed.(»ŒëÎ
+l
+java:S1104	"VMake postalCode a static final constant or non-public and provide accessors if needed.(»ŒëÎ
+o
+java:S1104
+"TMake latitude a static final constant or non-public and provide accessors if needed.(èò –ÿÿÿÿÿ
+p
+java:S1104
+"UMake longitude a static final constant or non-public and provide accessors if needed.(èò –ÿÿÿÿÿ
+;
+java:S1659	"%Declare "address" on a separate line.(»ŒëÎ
+?
+java:S1659	")Declare "addressType" on a separate line.(»ŒëÎ
+8
+java:S1659	""Declare "city" on a separate line.(»ŒëÎ
+?
+java:S1659	")Declare "countryCode" on a separate line.(»ŒëÎ
+>
+java:S1659	"(Declare "postalCode" on a separate line.(»ŒëÎ
+B
+java:S1659
+"'Declare "longitude" on a separate line.(èò –ÿÿÿÿÿ

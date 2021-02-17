@@ -1,0 +1,108 @@
+
+L
+java:S1444"1Make this "public static URL_BOOKING" field final(íªª¤ûÿÿÿÿ
+n
+java:S1104"XMake CURRENT_USER a static final constant or non-public and provide accessors if needed.(ƒ’¢
+v
+java:S1104"[Make URL_RATE_LOOKUP a static final constant or non-public and provide accessors if needed.(Ãâ…³ùÿÿÿÿ
+t
+java:S3008"^Rename this field "URL_ADD_CREDIT_CARD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óû‘¿
+J
+java:S1444"/Make this "public static PREF_NAME" field final(ãÕâÈıÿÿÿÿ
+v
+java:S3008"YRename this field "GOOGLE_API_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸©å—8”°´À.
+r
+java:S3008"WRename this field "URL_MY_RIDES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò§€úÿÿÿÿ
+U
+java:S1444,"3Make this "public static mLastLocation" field final(¾ôİûùÿÿÿÿ8”°´À.
+p
+java:S1104"SMake URL_API a static final constant or non-public and provide accessors if needed.(¾©”Ñ8”°´À.
+u
+java:S1104"_Make URL_ADD_CREDIT_CARD a static final constant or non-public and provide accessors if needed.(óû‘¿
+X	java:S125"<This block of commented-out lines of code should be removed.(ğË²ˆ8ÄÆÍ©Á.
+P
+java:S1444"5Make this "public static URL_RATE_LOOKUP" field final(Ãâ…³ùÿÿÿÿ
+F
+java:S1444"0Make this "public static URL_SERVER" field final(È¹ÑŠ
+J
+java:S1444"-Make this "public static URL_API" field final(¾©”Ñ8”°´À.
+l
+java:S1104"VMake URL_SERVER a static final constant or non-public and provide accessors if needed.(È¹ÑŠ
+j
+java:S1104"TMake URL_MAIN a static final constant or non-public and provide accessors if needed.(ÓÈı
+w
+java:S1104"ZMake GOOGLE_API_URL a static final constant or non-public and provide accessors if needed.(¸©å—8”°´À.
+o
+java:S3008"TRename this field "PREF_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÕâÈıÿÿÿÿ
+O
+java:S1444"9Make this "public static URL_ADD_CREDIT_CARD" field final(óû‘¿
+]	java:S125I"<This block of commented-out lines of code should be removed.(¸¯Ùûÿÿÿÿ8ÄÆÍ©Á.
+u
+java:S3008"ZRename this field "URL_RATE_LOOKUP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãâ…³ùÿÿÿÿ
+m
+java:S3008
+"WRename this field "USER_VEHICLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ª–
+p
+java:S1104"UMake PREF_NAME a static final constant or non-public and provide accessors if needed.(ãÕâÈıÿÿÿÿ
+G
+java:S1444	"*Make this "public static USER" field final(¬µŒÑ8ÄÆÍ©Á.
+H
+java:S1444
+"2Make this "public static USER_VEHICLE" field final(¹ª–
+t
+java:S1104"YMake LOCAL_DB_NAME a static final constant or non-public and provide accessors if needed.(¿„¾‘ûÿÿÿÿ
+v
+java:S3008"[Rename this field "URL_USER_ADDRESS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â×Ã«ıÿÿÿÿ
+q
+java:S3008"VRename this field "URL_BOOKING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íªª¤ûÿÿÿÿ
+k
+java:S3008"URename this field "URL_SERVER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¹ÑŠ
+i
+java:S3008"SRename this field "URL_MAIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÈı
+m
+java:S3008"WRename this field "CURRENT_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ’¢
+M
+java:S1444"2Make this "public static URL_MY_RIDES" field final(ò§€úÿÿÿÿ
+m
+java:S1104	"PMake USER a static final constant or non-public and provide accessors if needed.(¬µŒÑ8ÄÆÍ©Á.
+{
+java:S1104,"YMake mLastLocation a static final constant or non-public and provide accessors if needed.(¾ôİûùÿÿÿÿ8”°´À.
+w
+java:S1104"\Make URL_USER_ADDRESS a static final constant or non-public and provide accessors if needed.(â×Ã«ıÿÿÿÿ
+U
+java:S1444":Make this "public static URL_GET_CREDIT_CARDS" field final(˜äõ†ÿÿÿÿÿ
+H
+java:S1444"2Make this "public static CURRENT_USER" field final(ƒ’¢
+D
+java:S1444".Make this "public static URL_MAIN" field final(ÓÈı
+s
+java:S1104"XMake URL_MY_RIDES a static final constant or non-public and provide accessors if needed.(ò§€úÿÿÿÿ
+l
+java:S3008	"ORename this field "USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬µŒÑ8ÄÆÍ©Á.
+Q
+java:S1444"4Make this "public static GOOGLE_API_URL" field final(¸©å—8”°´À.
+s
+java:S3008"XRename this field "LOCAL_DB_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿„¾‘ûÿÿÿÿ
+Q
+java:S1444"6Make this "public static URL_USER_ADDRESS" field final(â×Ã«ıÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(àüÌöüÿÿÿÿ
+z
+java:S3008"_Rename this field "URL_GET_CREDIT_CARDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜äõ†ÿÿÿÿÿ
+N
+java:S1444"3Make this "public static LOCAL_DB_NAME" field final(¿„¾‘ûÿÿÿÿ
+V
+java:S1444"4Make this "public static URL_RESET_PASS" field final(Á«šşÿÿÿÿ8”°´À.
+{
+java:S1104"`Make URL_GET_CREDIT_CARDS a static final constant or non-public and provide accessors if needed.(˜äõ†ÿÿÿÿÿ
+|
+java:S1104"ZMake URL_RESET_PASS a static final constant or non-public and provide accessors if needed.(Á«šşÿÿÿÿ8”°´À.
+o
+java:S3008"RRename this field "URL_API" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾©”Ñ8”°´À.
+r
+java:S1104"WMake URL_BOOKING a static final constant or non-public and provide accessors if needed.(íªª¤ûÿÿÿÿ
+n
+java:S1104
+"XMake USER_VEHICLE a static final constant or non-public and provide accessors if needed.(¹ª–
+{
+java:S3008"YRename this field "URL_RESET_PASS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á«šşÿÿÿÿ8”°´À.

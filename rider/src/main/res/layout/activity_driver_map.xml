@@ -1,0 +1,70 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <LinearLayout
+        android:id="@+id/layout_panel"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <!--<EditText
+            android:id="@+id/edit_place"
+            android:hint="Enter Pickup Location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/btn_go"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="GO"/>-->
+        <fragment
+            android:id="@+id/place_autocomplete_fragment"
+            android:name="com.google.android.gms.location.places.ui.PlaceAutocompleteFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="5"/>
+
+    </LinearLayout>
+    <fragment
+        android:id="@+id/map"
+        android:layout_below="@+id/layout_panel"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="10dp"
+        android:layout_alignParentBottom="true"
+        app:cardBackgroundColor="@color/white">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10"
+            android:layout_margin="16dp">
+            <com.github.glomadrian.materialanimatedswitch.MaterialAnimatedSwitch
+                android:id="@+id/location_switch"
+                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                app:icon_release="@drawable/ic_action_place"
+                app:icon_press="@drawable/ic_action_home"
+                app:base_release_color="@color/text_color_dark"
+                app:base_press_color="@color/colorPrimary"
+                app:ball_release_color="@color/colorBase"
+                app:ball_press_color="@color/white"/>
+            <Button
+                android:id="@+id/btn_find_user"
+                android:layout_weight="7"
+                android:text="FIND USER"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
+

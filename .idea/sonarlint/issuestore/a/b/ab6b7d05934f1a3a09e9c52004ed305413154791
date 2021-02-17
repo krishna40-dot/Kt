@@ -1,0 +1,94 @@
+
+g
+java:S1301¤"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+b
+java:S1301ë"KReplace this "switch" statement by "if" statements to increase readability.(ºÓ©¦
+b
+java:S1301÷"KReplace this "switch" statement by "if" statements to increase readability.(¦ÌëÁ
+h
+java:S1192Å"QDefine a constant instead of duplicating this literal "card_holder_name" 3 times.(‚»½‹
+g
+java:S1192Ú"PDefine a constant instead of duplicating this literal "billing_address" 3 times.(Š‹ÿŒ
+J
+java:S1066s"/Merge this if statement with the enclosing one.(™šÊøÿÿÿÿ
+R	java:S110."=This class has 10 parents which is greater than 5 authorized.(õ£†‚
+A
+java:S5411ş"*Use the primitive boolean expression here.(¼µ†ş
+C
+java:S1604y"(Make this anonymous inner class a lambda(ÚÁ‰ëûÿÿÿÿ
+?
+java:S1604ƒ"(Make this anonymous inner class a lambda(òõÇÔ
+?
+java:S1604Í"(Make this anonymous inner class a lambda(Õä
+Z
+java:S2583õ"CChange this condition so that it does not always evaluate to "true"(ËÄÒ‚
+u
+java:S1488í"^Immediately return this expression instead of assigning it to the temporary variable "result".(äÅé´
+s
+java:S14500"XRemove the "actionBar" field and declare it as a local variable in the relevant methods.(ÒïÍ°ÿÿÿÿÿ
+q
+java:S1450<"VRemove the "address" field and declare it as a local variable in the relevant methods.(™Á½Ôşÿÿÿÿ
+o
+java:S14505"YRemove the "btnAddCard" field and declare it as a local variable in the relevant methods.(èô
+l
+java:S14502"QRemove the "db" field and declare it as a local variable in the relevant methods.(¹Çİ•ûÿÿÿÿ
+t
+java:S1450<"YRemove the "postalCode" field and declare it as a local variable in the relevant methods.(™Á½Ôşÿÿÿÿ
+o
+java:S1450<"TRemove the "state" field and declare it as a local variable in the relevant methods.(™Á½Ôşÿÿÿÿ
+l
+java:S1450/"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(ş®º—
+A
+java:S16591"+Declare "txtCardNumber" on a separate line.(Ì¢ÏÏ
+=
+java:S16591"'Declare "txtExpiry" on a separate line.(Ì¢ÏÏ
+>
+java:S16591"(Declare "txtAddress" on a separate line.(Ì¢ÏÏ
+A
+java:S16591"+Declare "txtPostalCode" on a separate line.(Ì¢ÏÏ
+B
+java:S1659;"'Declare "longitude" on a separate line.(åÀ¤ıÿÿÿÿ
+=
+java:S1659<""Declare "city" on a separate line.(™Á½Ôşÿÿÿÿ
+>
+java:S1659<"#Declare "state" on a separate line.(™Á½Ôşÿÿÿÿ
+@
+java:S1659<"%Declare "country" on a separate line.(™Á½Ôşÿÿÿÿ
+D
+java:S1659<")Declare "countryCode" on a separate line.(™Á½Ôşÿÿÿÿ
+C
+java:S1659<"(Declare "postalCode" on a separate line.(™Á½Ôşÿÿÿÿ
+h	java:S1167"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ñÛäıÿÿÿÿ
+Q
+java:S18743"6Remove this use of "ProgressDialog"; it is deprecated.(®ÿô´ùÿÿÿÿ
+m
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¨Œşÿÿÿÿ
+K
+java:S1874P"6Remove this use of "ProgressDialog"; it is deprecated.(§ÜÆn
+M
+java:S1135b"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+M
+java:S1135g"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+p
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öİ±
+`
+java:S1858ó"I"result" is already a string, there's no need to call "toString()" on it.(Æ²ŞÃ
+D	java:S108ù")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+M
+java:S1117ş"6Rename "db" which hides the field declared at line 50.(ûòÈÙ
+=	java:S131¤""Add a default case to this switch.(×ö³–úÿÿÿÿ
+D
+java:S1172½"-Remove this unused method parameter "status".(¡Å­²
+8	java:S131ë""Add a default case to this switch.(ºÓ©¦
+8	java:S131÷""Add a default case to this switch.(¦ÌëÁ
+a
+java:S2147„"ECombine this catch with the one at line 386, which has the same body.(âÃƒŠıÿÿÿÿ
+A
+java:S10682"&Remove this unused "db" private field.(¹Çİ•ûÿÿÿÿ
+D
+java:S1068<")Remove this unused "state" private field.(™Á½Ôşÿÿÿÿ
+I
+java:S1068<".Remove this unused "postalCode" private field.(™Á½Ôşÿÿÿÿ
+R	java:S125É"<This block of commented-out lines of code should be removed.(«ƒø€
+R	java:S125â"<This block of commented-out lines of code should be removed.(¸ìı˜
+R	java:S125å"<This block of commented-out lines of code should be removed.(‰¿ªï

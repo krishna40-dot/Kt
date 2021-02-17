@@ -1,0 +1,40 @@
+
+n
+java:S1301°"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8Ü¿Î·À.
+r
+java:S1450J"]Remove the "btnAddLocation" field and declare it as a local variable in the relevant methods.(ğ¿ç~
+w
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öİ±8Ü¿Î·À.
+Q
+java:S1874H"6Remove this use of "ProgressDialog"; it is deprecated.(®ÿô´ùÿÿÿÿ
+=
+java:S1604o"(Make this anonymous inner class a lambda(È¨«f
+l
+java:S1450?"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(ş®º—
+|
+java:S1488Û"^Immediately return this expression instead of assigning it to the temporary variable "result".(ƒÙİ8Ü¿Î·À.
+p
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‚ş§ˆ8Ü¿Î·À.
+s	java:S116L"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÖïéÿÿÿÿÿ8Öıæ¶À.
+s
+java:S1450A"XRemove the "actionBar" field and declare it as a local variable in the relevant methods.(ÒïÍ°ÿÿÿÿÿ
+Y	java:S125ó"<This block of commented-out lines of code should be removed.(Ëòä8¢Éá¸À.
+m
+java:S1192¡"JDefine a constant instead of duplicating this literal "longitude" 4 times.(ÃàÜÉùÿÿÿÿ8’ïÂ·À.
+p
+java:S1192ô"MDefine a constant instead of duplicating this literal "country_code" 3 times.(Ÿê±¢ÿÿÿÿÿ8Ü¿Î·À.
+a
+java:S2583ã"CChange this condition so that it does not always evaluate to "true"(ËÄÒ‚8Ü¿Î·À.
+Ÿ
+java:S1186‘"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø‰½8²şùÜÀ.
+g
+java:S1858á"I"result" is already a string, there's no need to call "toString()" on it.(’óš8Ü¿Î·À.
+^	java:S125â"<This block of commented-out lines of code should be removed.(ïïÓÿÿÿÿÿ8Ü¿Î·À.
+f
+java:S1192 "IDefine a constant instead of duplicating this literal "latitude" 4 times.(÷Àƒ 8Ü¿Î·À.
+V	java:S110="<This class has 9 parents which is greater than 5 authorized.(ôÍÓÆøÿÿÿÿ
+K
+java:S1874f"6Remove this use of "ProgressDialog"; it is deprecated.(§ÜÆn
+D	java:S131°""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8Ü¿Î·À.
+
+java:S1130Ç"oRemove the declaration of thrown exception 'org.json.JSONException', as it cannot be thrown from method's body.(‚ş§ˆ8Ü¿Î·À.

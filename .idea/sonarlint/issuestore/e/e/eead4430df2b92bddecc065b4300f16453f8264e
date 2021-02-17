@@ -1,0 +1,111 @@
+
+N
+java:S1854‹"7Remove this useless assignment to local variable "str".(·š·Ô
+W
+java:S1128":Remove this unused import 'android.content.ContentValues'.(å’µŞ8ÂÍÎÜÀ.
+˜
+java:S1186¡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(á¬‡İ
+M
+java:S1874d"7Remove this use of "GoogleApiClient"; it is deprecated.(Ÿõ¸Ú
+K
+java:S1604Ê"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8ÖŸ€İÀ.
+s
+java:S1450p"QRemove the "db" field and declare it as a local variable in the relevant methods.(¹Çİ•ûÿÿÿÿ8ÂÍÎÜÀ.
+X
+java:S1874["BRemove this use of "OnConnectionFailedListener"; it is deprecated.(†ÄÖË
+l
+java:S1128:"JRemove this unused import 'com.taxiappclone.common.utils.ServerUtilities'.(æ×Âîøÿÿÿÿ8ÂÍÎÜÀ.
+s	java:S116t"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÖïéÿÿÿÿÿ8™ÕÜÀ.
+C
+java:S1481·"'Remove this unused "st" local variable.(Ü½êÕúÿÿÿÿ
+E
+java:S1481¹")Remove this unused "name" local variable.(âäİÚúÿÿÿÿ
+T
+java:S1854¹"8Remove this useless assignment to local variable "name".(âäİÚúÿÿÿÿ
+H
+java:S1068p"&Remove this unused "db" private field.(¹Çİ•ûÿÿÿÿ8ÂÍÎÜÀ.
+S
+java:S2696„"6Make the enclosing method "static" or remove this set.(Æ­—V8ÖŸ€İÀ.
+M
+java:S1874["7Remove this use of "GoogleApiClient"; it is deprecated.(†ÄÖË
+V
+java:S1128"4Remove this unused import 'android.database.Cursor'.(Ôäåúÿÿÿÿ8ƒ³ÎÜÀ.
+¤
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°©½úÿÿÿÿ8ÖŸ€İÀ.
+|
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(âñó™ùÿÿÿÿ8ÖŸ€İÀ.
+^	java:S125÷"<This block of commented-out lines of code should be removed.(Œ¼º©şÿÿÿÿ8ıÊ¯İÀ.
+U
+java:S1854å">Remove this useless assignment to local variable "statusCode".(ó‡øÂ
+D
+java:S1604à"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ
+U
+java:S1874„"8Remove this use of "FusedLocationApi"; it is deprecated.(Æ­—V8ÖŸ€İÀ.
+]
+java:S1144ı":Remove this unused private "getAllStoredLocations" method.(Â€ï˜ÿÿÿÿÿ8ıÊ¯İÀ.
+Q	java:S110["<This class has 9 parents which is greater than 5 authorized.(†ÄÖË
+F
+java:S1604­"(Make this anonymous inner class a lambda(ÑÂğ8ÖŸ€İÀ.
+Q
+java:S1874[";Remove this use of "ConnectionCallbacks"; it is deprecated.(†ÄÖË
+?
+java:S1604Á"(Make this anonymous inner class a lambda(Çş•ï
+H
+java:S1068q"+Remove this unused "session" private field.(¢ş†–8ÂÍÎÜÀ.
+_
+java:S1128."BRemove this unused import 'com.taxiappclone.common.app.AppConfig'.(Š©Âı8ÂÍÎÜÀ.
+Ÿ
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ë¿í8ÖŸ€İÀ.
+n
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8ÖŸ€İÀ.
+R
+java:S1854¸";Remove this useless assignment to local variable "address".(´î’ß
+R
+java:S1854·"6Remove this useless assignment to local variable "st".(Ü½êÕúÿÿÿÿ
+Q
+java:S1128B"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ8ÂÍÎÜÀ.
+?
+java:S1481‹"(Remove this unused "str" local variable.(·š·Ô
+U
+java:S1128C"3Remove this unused import 'org.json.JSONException'.(¹Ó·úÿÿÿÿ8ÂÍÎÜÀ.
+f	java:S117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ«ôX
+O
+java:S1068n"-Remove this unused "listItems" private field.(ú­ª÷ûÿÿÿÿ8ìûÜÀ.
+˜
+java:S1186ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê³ôä
+L
+java:S1144¦".Remove this unused private "showToast" method.(ÍåÿÏ8ÖŸ€İÀ.
+M
+java:S1874["7Remove this use of "GoogleApiClient"; it is deprecated.(†ÄÖË
+Z
+java:S1874ö"7Remove this use of "GoogleApiClient"; it is deprecated.(ƒë‹Üşÿÿÿÿ8ÖŸ€İÀ.
+^
+java:S1128"<Remove this unused import 'android.annotation.SuppressLint'.(ÕƒóÏûÿÿÿÿ8ÂÍÎÜÀ.
+X	java:S125Î"<This block of commented-out lines of code should be removed.(Ù‘Ê8ÖŸ€İÀ.
+R
+java:S1874ö"/Remove this use of "Builder"; it is deprecated.(ƒë‹Üşÿÿÿÿ8ÖŸ€İÀ.
+g	java:S117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åˆıá
+s
+java:S1450_"XRemove the "actionBar" field and declare it as a local variable in the relevant methods.(ÒïÍ°ÿÿÿÿÿ
+l	java:S116c"WRename this field "GETPLACESHIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êà±á
+s
+java:S1450q"VRemove the "session" field and declare it as a local variable in the relevant methods.(¢ş†–8ÂÍÎÜÀ.
+U
+java:S1155Î">Use isEmpty() to check whether the collection is empty or not.(›øùó
+B
+java:S1659b"'Declare "longitude" on a separate line.(öîƒÆÿÿÿÿÿ
+F
+java:S1481å"/Remove this unused "statusCode" local variable.(ó‡øÂ
+l
+java:S1450^"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(ş®º—
+M
+java:S1068o"1Remove this unused "mRegisterTask" private field.(¨ûæ:8ÂÍÎÜÀ.
+C
+java:S1481¸",Remove this unused "address" local variable.(´î’ß
+t
+java:S3776~"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¨Œşÿÿÿÿ8óÈ›µÀ.
+
+java:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×åó«øÿÿÿÿ
+D	java:S131""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8ÖŸ€İÀ.
+¤
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„İßáøÿÿÿÿ8ÖŸ€İÀ.

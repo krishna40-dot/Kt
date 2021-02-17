@@ -1,0 +1,83 @@
+
+J
+java:S1874L"/Remove this use of "HttpGet"; it is deprecated.(™ÿ›øÿÿÿÿ
+S
+java:S1858P"="get" returns a string, there's no need to call "toString()".(®Šªù
+T
+java:S18749"9Remove this use of "DefaultHttpClient"; it is deprecated.(¸²ÿ£şÿÿÿÿ
+S
+java:S1858_"="get" returns a string, there's no need to call "toString()".(®Šªù
+c
+java:S1192/"MDefine a constant instead of duplicating this literal "Content-Type" 3 times.(Şæ‘Ô
+P
+java:S2864ê"4Iterate over the "entrySet" instead of the "keySet".(Ÿá‚íÿÿÿÿÿ
+F
+java:S1874="0Remove this use of "HttpPost"; it is deprecated.(òûñâ
+O
+java:S2864h"4Iterate over the "entrySet" instead of the "keySet".(¢Ÿ’øÿÿÿÿ
+O
+java:S2864N"4Iterate over the "entrySet" instead of the "keySet".(¢Ÿ’øÿÿÿÿ
+S
+java:S1858j"="get" returns a string, there's no need to call "toString()".(®Šªù
+H
+java:S1874f"2Remove this use of "HttpDelete"; it is deprecated.(öù¨
+_
+java:S1858^"I"header" is already a string, there's no need to call "toString()" on it.(üÛÔ½
+J
+java:S1874W"/Remove this use of "HttpPut"; it is deprecated.(«¬§àşÿÿÿÿ
+_
+java:S1858i"I"header" is already a string, there's no need to call "toString()" on it.(üÛÔ½
+F
+java:S2093ß"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+@
+java:S1144Œ")Remove this unused private "post" method.(¡æåù
+M
+java:S18749"2Remove this use of "HttpClient"; it is deprecated.(¸²ÿ£şÿÿÿÿ
+7	java:S131:""Add a default case to this switch.(€ÜóÏ
+B
+java:S1481"+Remove this unused "result" local variable.(ìş“
+8
+java:S1643…"Use a StringBuilder instead.(¦í°—øÿÿÿÿ
+J
+java:S1874Y"4Remove this use of "StringEntity"; it is deprecated.(ğò¦¹
+R	java:S125·"<This block of commented-out lines of code should be removed.(ÔáŒ¨
+_
+java:S1858O"I"header" is already a string, there's no need to call "toString()" on it.(üÛÔ½
+O
+java:S2864]"4Iterate over the "entrySet" instead of the "keySet".(¢Ÿ’øÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(ÔáŒ¨
+J
+java:S1874Y"4Remove this use of "StringEntity"; it is deprecated.(ğò¦¹
+J
+java:S1874?"4Remove this use of "StringEntity"; it is deprecated.(ğò¦¹
+H
+java:S1874f"2Remove this use of "HttpDelete"; it is deprecated.(öù¨
+Q
+java:S1854œ";Remove this useless assignment to local variable "message".(¾ÑÍ>
+J
+java:S18746"4Remove this use of "HttpResponse"; it is deprecated.(ÅæÁÔ
+R	java:S125š"<This block of commented-out lines of code should be removed.(×şÚš
+F
+java:S1874="0Remove this use of "HttpPost"; it is deprecated.(òûñâ
+J
+java:S1874L"/Remove this use of "HttpGet"; it is deprecated.(™ÿ›øÿÿÿÿ
+J
+java:S1874?"4Remove this use of "StringEntity"; it is deprecated.(ğò¦¹
+h
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¢Ñ¼ˆ
+P
+java:S1118!":Add a private constructor to hide the implicit public one.(·÷à
+_
+java:S1858D"I"header" is already a string, there's no need to call "toString()" on it.(üÛÔ½
+B
+java:S1481œ",Remove this unused "message" local variable.(¾ÑÍ>
+W
+java:S2184”"@Cast one of the operands of this addition operation to a "long".(ú‰Éº
+O
+java:S2864C"4Iterate over the "entrySet" instead of the "keySet".(¢Ÿ’øÿÿÿÿ
+J
+java:S1874W"/Remove this use of "HttpPut"; it is deprecated.(«¬§àşÿÿÿÿ
+o
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(Öİ±
+S
+java:S1858E"="get" returns a string, there's no need to call "toString()".(®Šªù

@@ -1,0 +1,10 @@
+
+Q	java:S110&"<This class has 9 parents which is greater than 5 authorized.(Ü»Ãø
+n
+java:S14503"SRemove the "ride" field and declare it as a local variable in the relevant methods.(ïö©ôüÿÿÿÿ
+{
+java:S14505"YRemove the "apiService" field and declare it as a local variable in the relevant methods.(ùêîßûÿÿÿÿ8‡•·¯Â.
+R
+java:S1128"0Remove this unused import 'butterknife.OnClick'.(ÔÌÓ¿ÿÿÿÿÿ8õìÙ¯Â.
+s
+java:S14501"XRemove the "actionBar" field and declare it as a local variable in the relevant methods.(ÒïÍ°ÿÿÿÿÿ

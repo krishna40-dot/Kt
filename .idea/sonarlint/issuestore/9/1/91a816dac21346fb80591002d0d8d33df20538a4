@@ -1,0 +1,29 @@
+
+t
+java:S1104"YMake vehicleTypeId a static final constant or non-public and provide accessors if needed.(°®Âºþÿÿÿÿ
+v
+java:S1104"[Make luggageCapacity a static final constant or non-public and provide accessors if needed.(°®Âºþÿÿÿÿ
+y
+java:S1104	"^Make vehicleDescription a static final constant or non-public and provide accessors if needed.(¶–Òìùÿÿÿÿ
+H
+java:S1659"-Declare "luggageCapacity" on a separate line.(°®Âºþÿÿÿÿ
+V	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(ýûÄÎ
+x
+java:S1104"]Make passengerCapacity a static final constant or non-public and provide accessors if needed.(°®Âºþÿÿÿÿ
+p
+java:S1104"UMake vehicleId a static final constant or non-public and provide accessors if needed.(°®Âºþÿÿÿÿ
+K
+java:S1659	"0Declare "vehicleDescription" on a separate line.(¶–Òìùÿÿÿÿ
+m
+java:S1104	"RMake imgUrl a static final constant or non-public and provide accessors if needed.(¶–Òìùÿÿÿÿ
+r
+java:S1104	"WMake vehicleName a static final constant or non-public and provide accessors if needed.(¶–Òìùÿÿÿÿ
+m
+java:S1104
+"RMake amount a static final constant or non-public and provide accessors if needed.(ýÖù×øÿÿÿÿ
+F
+java:S1659"+Declare "vehicleTypeId" on a separate line.(°®Âºþÿÿÿÿ
+J
+java:S1659"/Declare "passengerCapacity" on a separate line.(°®Âºþÿÿÿÿ
+?
+java:S1659	"$Declare "imgUrl" on a separate line.(¶–Òìùÿÿÿÿ

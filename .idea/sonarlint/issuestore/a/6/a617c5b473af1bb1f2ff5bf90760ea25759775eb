@@ -1,0 +1,44 @@
+
+L
+java:S1874("6Remove this use of "ProgressDialog"; it is deprecated.(±Èû¶
+G
+java:S1068'"+Remove this unused "session" private field.(òÍ†R8²®è¸À.
+n
+java:S11042"SMake btnEdit a static final constant or non-public and provide accessors if needed.(ÛÝ §ùÿÿÿÿ
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8¿¥—¹À.
+Q
+java:S1874C"6Remove this use of "ProgressDialog"; it is deprecated.(¦•…èÿÿÿÿÿ
+D
+java:S1068&"'Remove this unused "TAG" private field.(Î–âœ8²®è¸À.
+n
+java:S11040"SMake address a static final constant or non-public and provide accessors if needed.(ŒèÅ‰øÿÿÿÿ
+@
+java:S16590"%Declare "address" on a separate line.(ŒèÅ‰øÿÿÿÿ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(²ê¡úÿÿÿÿÿ
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8¿¥—¹À.
+^
+java:S1128"<Remove this unused import 'android.annotation.SuppressLint'.(ÕƒóÏûÿÿÿÿ8¿¥—¹À.
+l
+java:S1128 "JRemove this unused import 'com.taxiappclone.common.utils.ServerUtilities'.(æ×Âîøÿÿÿÿ8¿¥—¹À.
+B
+java:S16592"'Declare "btnDelete" on a separate line.(ÛÝ §ùÿÿÿÿ
+p
+java:S11041"ZMake imgAddressType a static final constant or non-public and provide accessors if needed.(¦—®ó
+H
+java:S1068+"&Remove this unused "db" private field.(¹ÇÝ•ûÿÿÿÿ8²®è¸À.
+B
+java:S1872J"'Use an "instanceof" comparison instead.(Å¥¬¢øÿÿÿÿ
+P
+java:S1128"".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¿¥—¹À.
+M
+java:S1068,"1Remove this unused "mRegisterTask" private field.(¨ûæ:8²®è¸À.
+_
+java:S1128"BRemove this unused import 'com.taxiappclone.common.app.AppConfig'.(Š©Âý8¿¥—¹À.
+p
+java:S11042"UMake btnDelete a static final constant or non-public and provide accessors if needed.(ÛÝ §ùÿÿÿÿ
+k
+java:S11040"PMake name a static final constant or non-public and provide accessors if needed.(ŒèÅ‰øÿÿÿÿ
+N
+java:S1128"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ8¡‡¹À.

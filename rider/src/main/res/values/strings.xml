@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="item_bg">
+        <item>@drawable/selector_car_micro</item>
+        <item>@drawable/selector_car_mini</item>
+        <item>@drawable/selector_car_sedan</item>
+    </array>
+
+    <string name="app_name">MBS Rider</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Activity Titles -->
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signin">Login</string>
+
+    <string name="title_activity_signup">Register</string>
+    <string name="drawer_open">Open</string>
+
+
+    <!-- Strings related to login -->
+    <string name="drawer_close">Close</string>
+    <string name="prompt_email">Email address or Mobile No.</string>
+    <string name="prompt_password">Enter your password</string>
+    <string name="hint_username">Email</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="hint_signup">Not a user?</string>
+    <string name="link_signup">Register Now</string>
+    <string name="signin">Login</string>
+
+
+    <string name="signup">Sign Up</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="plus_sign_out">Switch Google+ account</string>
+    <string name="plus_disconnect">Disconnect from Google+</string>
+    <string name="error_email">Enter Email / Username</string>
+    <string name="error_password">Enter a Password</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+
+    <string name="error_field_required">This field is required</string>
+    <string name="hint_fname">First Name</string>
+    <string name="hint_lname">Last Name</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_mobile">Mobile No.</string>
+    <string name="hint_pwd">Password (6-20 characters)</string>
+    <string name="txt_signup_declaration">By creating this account, I agree Xyz.com\'s
+        <a href="http://www.xyz.com">Terms &amp; condition</a> &amp; <a href="http://www.xyz.com">Privacy Policy</a>.</string>
+    <string name="txt_already_a_user">Already have an account?</string>
+
+    <string name="link_signin">Log In</string>
+    <string name="txt_search">Search</string>
+    <string name="txt_home">Home</string>
+    <string name="title_activity_driver_map">Driver Map</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="google_api_browser_key">AIzaSyCKo2cqrXlDynb1vs5G8itDhiIh2aT1OBA</string>
+    <string name="title_activity_rider_map">Rider Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_stored_locations">My Addresses</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="no_locations_found">No Locations found</string>
+    <string name="add_a_location">Add a address</string>
+    <string name="location_saved">Location saved</string>
+    <string name="location_updated">Location updated</string>
+    <string name="no_vehicles_found">No vehicles found in selected area.</string>
+    <string name="go_back">Go Back</string>
+    <string name="add_a_card">Add a card</string>
+    <string name="txt_reservation_received">Your reservation has been received. Should you have any questions or concerns, please feel free to contact us by phone at (888)435-0104.</string>
+    <string name="cancel_ride">Cancel Ride</string>
+    <string name="destination">Destination</string>
+    <string name="pickup">Pickup</string>
+    <string name="payment_info">Payment Info</string>
+
+
+    // TAC strings
+    <string name="driver_info">Driver Info</string>
+    <string name="more_details">More Details</string>
+    <string name="this_fare_is_based_on">This fare is based on our estimation. This may vary during trip and final fare</string>
+    <string name="login">Login</string>
+
+    <string-array name="titles">
+        <item>"Micro"</item>
+        <item>"Mini"</item>
+        <item>"Sedan"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorActivityBackground">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <include android:id="@+id/toolbar" layout="@layout/toolbar"/>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                app:srcCompat="@drawable/ic_check_circle_black_24dp"
+                android:tint="@color/colorGreen"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Thank you for travelling with Blaxxi."
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/colorGreen"
+                android:textSize="18sp"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="25dp"
+                android:background="@drawable/border_with_radius"
+                android:orientation="vertical"
+
+                android:padding="15dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Your confrimation number for this trip"
+                    android:textSize="16sp"
+                    android:layout_gravity="center_horizontal"/>
+                <TextView
+                    android:id="@+id/tv_confirmation_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="38805"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:layout_marginTop="5dp"
+                    android:layout_gravity="center_horizontal"/>
+            </LinearLayout>
+            <Button
+                android:id="@+id/btn_book_another_trip"
+                android:layout_width="170dp"
+                android:layout_height="wrap_content"
+                style="@style/ButtonPrimary"
+                android:text="Book Another Trip"
+                android:background="@drawable/ripple_green_button"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+                android:textColor="@color/white"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/txt_reservation_received"
+                android:layout_margin="15dp"
+                android:textAlignment="center"
+                />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Privacy Policy"
+                android:layout_gravity="center_horizontal"
+                style="@style/MyBorderlessButton"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textColor="@color/cpb_blue"
+                />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MBS Driver</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="vehicle_type">Vehicle Type</string>
+    <string name="vehicle_model_name">Vehicle Model Name</string>
+    <string name="vehicle_registration_number">Vehicle Registration Number</string>
+    <string name="license_expiry_date">Licence Expiry Date</string>
+    <string name="upload_driving_license">Upload Driving License</string>
+    <string name="upload_registration_card">Upload Registration Card</string>
+    <string name="upload_insurance">Upload Insurance</string>
+    <string name="exit">Exit</string>
+    <string name="resubmit">Resubmit</string>
+    <string name="msg_profile_rejected">Your profile is rejected cause of following reason:</string>
+    <string name="msg_account_deleted">Your account is Deleted cause of following reason:</string>
+    <string name="msg_profile_under_review">Your account is under review.\nThis process may take upto 48 hours.</string>
+    <string name="under_review">Under Review</string>
+    <string name="account_status">Account Status</string>
+    <string name="checking_status">Checking status...</string>
+    <string name="rejected">Rejected</string>
+    <string name="deleted">Deleted</string>
+    <string name="account_deleted">Account Deleted</string>
+    <string name="please_select_profile_picture">Please select a profile picture</string>
+    <string name="login">Login</string>
+</resources>

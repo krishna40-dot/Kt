@@ -1,0 +1,29 @@
+
+–
+java:S1186D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(É€¸w
+œ
+java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãºÍ’ıÿÿÿÿ
+œ
+java:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾Õııÿÿÿÿ
+z
+java:S3008#"_Rename this field "DISK_IMAGECACHE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î×Šùÿÿÿÿ
+—
+java:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±½ï½
+Q
+java:S2696/"6Make the enclosing method "static" or remove this set.(û€Ì›ùÿÿÿÿ
+S
+java:S1068#"8Remove this unused "DISK_IMAGECACHE_SIZE" private field.(î×Šùÿÿÿÿ
+€
+java:S3008$"jRename this field "DISK_IMAGECACHE_COMPRESS_FORMAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á ‘ã
+Q
+java:S1068%";Remove this unused "DISK_IMAGECACHE_QUALITY" private field.(ÊÌ•¹
+d
+java:S2259Š"MA "NullPointerException" could be thrown; "mLruBitmapCache" is nullable here.(¹Õ²
+Y
+java:S1068$"CRemove this unused "DISK_IMAGECACHE_COMPRESS_FORMAT" private field.(Á ‘ã
+x
+java:S3008%"bRename this field "DISK_IMAGECACHE_QUALITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÌ•¹
+œ
+java:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŠÏò¢ùÿÿÿÿ
+œ
+java:S1186S"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°ö¢ÿÿÿÿÿ

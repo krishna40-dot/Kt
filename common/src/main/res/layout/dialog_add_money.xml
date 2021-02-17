@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="@dimen/dimen_10dp">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:text="Add Money into your Wallet"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/etName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:hint="Name"
+        android:inputType="textCapWords"
+        android:lines="1" />
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/etMobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:hint="Mobile"
+        android:inputType="phone"
+        android:lines="1" />
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/etEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:lines="1" />
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/etAmount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:hint="Amount"
+        android:inputType="number"
+        android:lines="1" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnAddMoney"
+        style="@style/ButtonPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/dimen_10dp"
+        android:padding="@dimen/dimen_10dp"
+        android:text="Add Money" />
+</LinearLayout>

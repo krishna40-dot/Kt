@@ -1,0 +1,53 @@
+
+y
+java:S1450@"]Remove the "btnAddLocation" field and declare it as a local variable in the relevant methods.(ğ¿ç~8Œó·ºÀ.
+e
+java:S1192U"HDefine a constant instead of duplicating this literal "pincode" 4 times.(¨¿ñë8üÚ·¹À.
+Y	java:S125Á"<This block of commented-out lines of code should be removed.(‰¿ªï8„¾¼ºÀ.
+n
+java:S1192T"LDefine a constant instead of duplicating this literal "address_two" 4 times.(å“°³şÿÿÿÿ8üÚ·¹À.
+w
+java:S1450;"\Remove the "tvDialogTitle" field and declare it as a local variable in the relevant methods.(»¥¹ÿÿÿÿÿ
+M
+java:S1068:"1Remove this unused "mRegisterTask" private field.(¨ûæ:8ÃÔ†µÀ.
+s
+java:S14509"VRemove the "session" field and declare it as a local variable in the relevant methods.(¢ş†–8ÃÔ†µÀ.
+R
+java:S1874Z"6Remove this use of "ProgressDialog"; it is deprecated.(§ÜÆn8Î®¹À.
+p	java:S1162"VRename this field "address_one" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óë‘½ûÿÿÿÿ
+e
+java:S1192P"HDefine a constant instead of duplicating this literal "user_id" 3 times.(ª±Â›8Ÿ»Æ¹À.
+f
+java:S1192V"IDefine a constant instead of duplicating this literal "latitude" 4 times.(ı˜Í±8üÚ·¹À.
+o
+java:S1192Q"MDefine a constant instead of duplicating this literal "address_type" 3 times.(Ä¼Ÿîÿÿÿÿÿ8Ÿ»Æ¹À.
+V	java:S110*"<This class has 9 parents which is greater than 5 authorized.(Ã‚ïåøÿÿÿÿ
+r	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³İ°üÿÿÿÿ8Î®¹À.
+E
+java:S1604j"(Make this anonymous inner class a lambda(òõÇÔ8Î®¹À.
+Y	java:S125¾"<This block of commented-out lines of code should be removed.(¸ìı˜8„¾¼ºÀ.
+h	java:S116<"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÈ½àúÿÿÿÿ
+i
+java:S1192S"LDefine a constant instead of duplicating this literal "address_one" 4 times.(úàÎ…8üÚ·¹À.
+n
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8„¾¼ºÀ.
+q
+java:S1128"ORemove this unused import 'com.taxiappclone.common.adapter.StoredLocationItem'.(‹ßÍ‡şÿÿÿÿ8†»ºÀ.
+f
+java:S1192W"JDefine a constant instead of duplicating this literal "longitude" 4 times.(ü­á8üÚ·¹À.
+l	java:S116/"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÖïéÿÿÿÿÿ
+D	java:S131""Add a default case to this switch.(×“¾ñùÿÿÿÿ8„¾¼ºÀ.
+M
+java:S5411’"*Use the primitive boolean expression here.(Öî¸Ãıÿÿÿÿ8„¾¼ºÀ.
+v
+java:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(“£â±8Î®¹À.
+p	java:S1163"VRename this field "address_two" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‘šºúÿÿÿÿ
+Q
+java:S18748"6Remove this use of "ProgressDialog"; it is deprecated.(®ÿô´ùÿÿÿÿ
+L
+java:S1144®".Remove this unused private "showToast" method.(ÍåÿÏ8„¾¼ºÀ.
+x	java:S1160"WRename this field "address_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰’£äüÿÿÿÿ8Î±ßµÀ.
+H
+java:S10689"+Remove this unused "session" private field.(¢ş†–8ÃÔ†µÀ.
+C
+java:S1659,"(Declare "txtAddress" on a separate line.(¥ŠŞñùÿÿÿÿ
