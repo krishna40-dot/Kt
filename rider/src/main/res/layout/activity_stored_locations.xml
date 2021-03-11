@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/colorActivityBackground"
     android:orientation="vertical"
-    tools:context="com.taxiappclone.rider.activity.StoredLocationsActivity">
+    tools:context="com.mbsindia.rider.activity.StoredLocationsActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"

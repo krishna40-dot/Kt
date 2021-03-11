@@ -1,4 +1,4 @@
-package com.taxiappclone.rider;
+package com.mbsindia.rider;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.taxiappclone.rider", appContext.getPackageName());
+        assertEquals("com.mbsindia.rider", appContext.getPackageName());
     }
 }

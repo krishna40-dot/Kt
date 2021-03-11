@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.taxiappclone.rider">
+    package="com.mbsindia.rider">
 
     <permission
-        android:name="com.taxiappclone.rider.permission.C2D_MESSAGE"
+        android:name="com.mbsindia.rider.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
     <uses-feature android:name="android.hardware.camera" />

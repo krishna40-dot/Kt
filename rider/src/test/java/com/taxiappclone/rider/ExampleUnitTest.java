@@ -1,4 +1,4 @@
-package com.taxiappclone.rider;
+package com.mbsindia.rider;
 
 import org.junit.Test;
 

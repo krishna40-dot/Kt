@@ -93,12 +93,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/rider/build/generated/res/google-services/release/values/values.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/rider/build/outputs/logs/manifest-merger-release-report.txt">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/rider/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rider/src/main/java/com/mbsindia/rider/activity/GetUserInfoActivity.java">
           <value>
             <set />
           </value>
