@@ -1,34 +1,71 @@
 {
   "project_info": {
-    "project_number": "942586762789",
-    "firebase_url": "https://mbs-cab.firebaseio.com",
-    "project_id": "mbs-cab",
-    "storage_bucket": "mbs-cab.appspot.com"
+    "project_number": "575336335529",
+    "firebase_url": "https://mbsindia-1f677-default-rtdb.firebaseio.com",
+    "project_id": "mbsindia-1f677",
+    "storage_bucket": "mbsindia-1f677.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:942586762789:android:e04935a21fd45bb63551cc",
+        "mobilesdk_app_id": "1:575336335529:android:bdce3448875fc69c27c1b8",
         "android_client_info": {
-          "package_name": "com.taxiappclone.driver"
+          "package_name": "com.mbsindia.driver"
         }
       },
       "oauth_client": [
         {
-          "client_id": "942586762789-2lke15f9qncd2kt9t7fg6birp1d8mufj.apps.googleusercontent.com",
+          "client_id": "575336335529-d9nofjjrs9jemvv09vtm8r8jturq25rg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAJ8Z3ChPwUh3T9AQmudnGPtDYBuR3j8sQ"
+          "current_key": "AIzaSyATyyxWQZPVS2T66FbG0Xh39tKq8IkQ9vE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "942586762789-2lke15f9qncd2kt9t7fg6birp1d8mufj.apps.googleusercontent.com",
+              "client_id": "575336335529-d9nofjjrs9jemvv09vtm8r8jturq25rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575336335529:android:0371f095be8d8d8727c1b8",
+        "android_client_info": {
+          "package_name": "com.mbsindia.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575336335529-qd1fhhn61bj3mn9lckvho9277ul5flc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbsindia.rider",
+            "certificate_hash": "3c0138bf36049325500258fa1d42b0d5f54c8b08"
+          }
+        },
+        {
+          "client_id": "575336335529-d9nofjjrs9jemvv09vtm8r8jturq25rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATyyxWQZPVS2T66FbG0Xh39tKq8IkQ9vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575336335529-d9nofjjrs9jemvv09vtm8r8jturq25rg.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

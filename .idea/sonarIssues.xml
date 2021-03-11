@@ -78,6 +78,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/driver/src/main/java/com/mbsindia/driver/model/VehicleListItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/driver/src/main/java/com/taxiappclone/driver/activity/EnableLocationActivity.java">
           <value>
             <set />

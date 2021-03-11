@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.taxiappclone.driver">
+    package="com.mbsindia.driver">
 
     <uses-permission android:name="android.permission.ACTION_MANAGE_OVERLAY_PERMISSION" />
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
 
     <permission
-        android:name="com.taxiappclone.driver.permission.C2D_MESSAGE"
+        android:name="com.mbsindia.driver.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
     <uses-feature android:name="android.hardware.camera" />

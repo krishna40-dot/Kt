@@ -428,7 +428,7 @@ android:layout_height="fill_parent">
 
 <fragment
     android:id="@+id/fragment_navigation_drawer"
-    android:name="com.taxiappclone.driver.activity.FragmentDrawer"
+    android:name="com.mbsindia.driver.activity.FragmentDrawer"
     android:layout_width="wrap_content"
     android:layout_height="fill_parent"
     android:layout_gravity="start"

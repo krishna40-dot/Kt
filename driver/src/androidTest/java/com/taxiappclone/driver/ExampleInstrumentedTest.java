@@ -1,4 +1,4 @@
-package com.taxiappclone.driver;
+package com.mbsindia.driver;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.taxiappclone.driver", appContext.getPackageName());
+        assertEquals("com.mbsindia.driver", appContext.getPackageName());
     }
 }

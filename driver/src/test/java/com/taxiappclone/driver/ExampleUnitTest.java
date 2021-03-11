@@ -1,4 +1,4 @@
-package com.taxiappclone.driver;
+package com.mbsindia.driver;
 
 import org.junit.Test;
 
